@@ -1,0 +1,56 @@
+{
+  "prepared_at": "2026-06-20T12:09:07",
+  "transfer_dir": "rbi_amex_compliance_dump\\github_transfer_package_20260620",
+  "source_archive": "C:\\Users\\QSS\\Documents\\Ravender\\MONITORING_LATEST\\Windfall_monitoring\\rbi_amex_compliance_dump\\verified_pdfs_only.7z",
+  "source_archive_bytes": 2041847218,
+  "source_archive_sha256": "e11993ff63fcd4a92e9fda8715fdabebc0734c5b21836b790613a79a9194912c",
+  "workbook": "rbi_amex_compliance_dump\\github_transfer_package_20260620\\dump_information_VERIFIED_FINAL_20_6.xlsx",
+  "workbook_bytes": 17170329,
+  "workbook_sha256": "558d9a9c331c5e399ec7b30582e2644068d6d7dd52e30ff284efbb5bb8f1cc8c",
+  "chunk_size_bytes": 536870912,
+  "chunk_count": 4,
+  "release_files": [
+    {
+      "file": "verified_pdfs_only.7z.part001",
+      "bytes": 536870912,
+      "sha256": "e96801fbdcaf6ee72401c940b617e979947292b26797f7c4092e7cfa19dd23bb"
+    },
+    {
+      "file": "verified_pdfs_only.7z.part002",
+      "bytes": 536870912,
+      "sha256": "a8c5cb20617b291bf89b42b1d0de34583647010ed7f3b18d19d71ecdf4c287c7"
+    },
+    {
+      "file": "verified_pdfs_only.7z.part003",
+      "bytes": 536870912,
+      "sha256": "7bcb63efaf3d114b5e2902fa2b4e647cad9a709cf259a2a47ab2efac823af36b"
+    },
+    {
+      "file": "verified_pdfs_only.7z.part004",
+      "bytes": 431234482,
+      "sha256": "d6070f64489a624ae54591c364a33fbf5c22c61ed886c2b22beca70af614cc7c"
+    },
+    {
+      "file": "dump_information_VERIFIED_FINAL_20_6.xlsx",
+      "bytes": 17170329,
+      "sha256": "558d9a9c331c5e399ec7b30582e2644068d6d7dd52e30ff284efbb5bb8f1cc8c"
+    },
+    {
+      "file": "reassemble_and_verify.ps1",
+      "bytes": 1133,
+      "sha256": "2ce0868bb9c0336efb1f413780dd9ed7598a567047e09a7673b780d9ea71c38d"
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "bytes": 705,
+      "sha256": "b6606ceb5bd314852af162f6b5930d9c215b02f345990af91c72637f61d591ba"
+    },
+    {
+      "file": "README_DOWNLOAD_AND_REASSEMBLE.txt",
+      "bytes": 1206,
+      "sha256": "dabfe38de350bea1a4bb5d9c990b4cfe08cd0159c9eea03799c9dade1eb0cdf9"
+    }
+  ],
+  "expected_pdf_count": 13658,
+  "expected_verified_dump_rows": 14015
+}
