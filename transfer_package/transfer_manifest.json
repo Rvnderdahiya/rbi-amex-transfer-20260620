@@ -11,22 +11,22 @@
   "chunk_count": 4,
   "release_files": [
     {
-      "file": "verified_pdfs_only.7z.part001",
+      "file": "verified_pdfs_only.7z.001",
       "bytes": 536870912,
       "sha256": "e96801fbdcaf6ee72401c940b617e979947292b26797f7c4092e7cfa19dd23bb"
     },
     {
-      "file": "verified_pdfs_only.7z.part002",
+      "file": "verified_pdfs_only.7z.002",
       "bytes": 536870912,
       "sha256": "a8c5cb20617b291bf89b42b1d0de34583647010ed7f3b18d19d71ecdf4c287c7"
     },
     {
-      "file": "verified_pdfs_only.7z.part003",
+      "file": "verified_pdfs_only.7z.003",
       "bytes": 536870912,
       "sha256": "7bcb63efaf3d114b5e2902fa2b4e647cad9a709cf259a2a47ab2efac823af36b"
     },
     {
-      "file": "verified_pdfs_only.7z.part004",
+      "file": "verified_pdfs_only.7z.004",
       "bytes": 431234482,
       "sha256": "d6070f64489a624ae54591c364a33fbf5c22c61ed886c2b22beca70af614cc7c"
     },
@@ -37,18 +37,23 @@
     },
     {
       "file": "reassemble_and_verify.ps1",
-      "bytes": 1133,
-      "sha256": "2ce0868bb9c0336efb1f413780dd9ed7598a567047e09a7673b780d9ea71c38d"
+      "bytes": 4293,
+      "sha256": "34e51b39ccdca6cf0adbe3a2d169c5d8edc12fac24b6903a07e0de69753509f2"
+    },
+    {
+      "file": "DOUBLE_CLICK_REASSEMBLE_AND_EXTRACT.bat",
+      "bytes": 130,
+      "sha256": "1bf5fd19576e9ab22b2210d6d530e29eaedafa190eac1878e04185ad9e673e41"
     },
     {
       "file": "SHA256SUMS.txt",
-      "bytes": 705,
-      "sha256": "b6606ceb5bd314852af162f6b5930d9c215b02f345990af91c72637f61d591ba"
+      "bytes": 889,
+      "sha256": "b28364a2f37ffacb4a09a7ab89b2ee1d5dae02093d9fd8356e1ddea4241ae223"
     },
     {
       "file": "README_DOWNLOAD_AND_REASSEMBLE.txt",
-      "bytes": 1206,
-      "sha256": "dabfe38de350bea1a4bb5d9c990b4cfe08cd0159c9eea03799c9dade1eb0cdf9"
+      "bytes": 1459,
+      "sha256": "b7ee814df94d2725275d6dcf71b142bfacb40fce6b01967c1668ebb1579f51ee"
     }
   ],
   "expected_pdf_count": 13658,

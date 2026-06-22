@@ -1,1 +1,1 @@
-transfer_package/*.part* filter=lfs diff=lfs merge=lfs -text
+transfer_package/*.7z.[0-9][0-9][0-9] filter=lfs diff=lfs merge=lfs -text
