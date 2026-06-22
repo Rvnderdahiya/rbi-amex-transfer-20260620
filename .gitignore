@@ -1,0 +1,5 @@
+node_modules/
+build_simple_workbook_data.py
+build_simple_team_workbook.mjs
+browser_download_package/simple_workbook_data.json
+browser_download_package/_simple_workbook_previews/
