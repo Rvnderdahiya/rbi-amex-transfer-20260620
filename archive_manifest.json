@@ -1,0 +1,74 @@
+{
+  "archive_file": "PDFs.7z",
+  "archive_size_bytes": 611263661,
+  "archive_sha256": "bd94044a00b0fd1d6aa9980cbe3d5ff8bb889d6c091b64df96254584d117cc50",
+  "part_size_bytes": 50331648,
+  "part_count": 13,
+  "parts": [
+    {
+      "part": "PDFs.7z.part001",
+      "size_bytes": 50331648,
+      "sha256": "0a5bba134191b28440de27a84213c516eff680131dc45f8973e3f5ebfdf3c4e0"
+    },
+    {
+      "part": "PDFs.7z.part002",
+      "size_bytes": 50331648,
+      "sha256": "62783d35a12691b411b407aeb2fd9bb3fb8684c8a07e5d94914ff3c53ad1a01e"
+    },
+    {
+      "part": "PDFs.7z.part003",
+      "size_bytes": 50331648,
+      "sha256": "d6c7a80c75d397c981562facfb9f9eec6bb9027652cc89c4f43edc1c3887f26a"
+    },
+    {
+      "part": "PDFs.7z.part004",
+      "size_bytes": 50331648,
+      "sha256": "0294d71d906f94efc9ac42ce3c5c0625dc79044dfa771dc9817cd162cb848983"
+    },
+    {
+      "part": "PDFs.7z.part005",
+      "size_bytes": 50331648,
+      "sha256": "3a5b7402794e6f47a263c977c2d98ebea1a979b672231cccbd3595035363368e"
+    },
+    {
+      "part": "PDFs.7z.part006",
+      "size_bytes": 50331648,
+      "sha256": "79a96f829bd94dddefd058f9a7e51bde6baf5bb99cdf79a1c3910977134e2f07"
+    },
+    {
+      "part": "PDFs.7z.part007",
+      "size_bytes": 50331648,
+      "sha256": "cb22e8975b87f4f1072cf3a9bf8d8b5b39aec4c410728d1789b5b4a8d02a251a"
+    },
+    {
+      "part": "PDFs.7z.part008",
+      "size_bytes": 50331648,
+      "sha256": "523fb2bcee4d8a533ae913cebb278ce1c1cc3b45398c3e573846c971b53e01bb"
+    },
+    {
+      "part": "PDFs.7z.part009",
+      "size_bytes": 50331648,
+      "sha256": "eb280a09583783935556f43583c15ebd217181b4219a2fb0c1e0c7bb1340fdc4"
+    },
+    {
+      "part": "PDFs.7z.part010",
+      "size_bytes": 50331648,
+      "sha256": "b65ba141ed612f15ca57ac467a1db991f23bd367dab3de7924e407abcd40ff14"
+    },
+    {
+      "part": "PDFs.7z.part011",
+      "size_bytes": 50331648,
+      "sha256": "cccbfc5b6b78acd26eb21b9bd8a5ea37526146dfa19530797ba7ea7f9bfa6a1a"
+    },
+    {
+      "part": "PDFs.7z.part012",
+      "size_bytes": 50331648,
+      "sha256": "107beed2e0ff20f84e271370c33787c67df0ccb99622fd77e303ddf907dfca52"
+    },
+    {
+      "part": "PDFs.7z.part013",
+      "size_bytes": 7283885,
+      "sha256": "c75f1597da3db5c372c05d708522b0105b8c98985d8333f0764e8e67368c8f9f"
+    }
+  ]
+}

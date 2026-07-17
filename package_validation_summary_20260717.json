@@ -1,0 +1,21 @@
+{
+  "package": "C:\\Users\\QSS\\Documents\\Ravender\\MONITORING_LATEST\\Windfall_monitoring\\India_LRR_Active_Regulatory_Inventory_20260714",
+  "workbook": "C:\\Users\\QSS\\Documents\\Ravender\\MONITORING_LATEST\\Windfall_monitoring\\India_LRR_Active_Regulatory_Inventory_20260714\\India_LRR_Active_Regulatory_Inventory_20260714.xlsx",
+  "folder_counts": {
+    "01_PDFs_Matched_With_RBI_Dump": 2360,
+    "02_PDFs_Not_Matched_With_RBI_Dump": 179,
+    "03_RBI_Dump_PDFs_Not_In_Final_KMT_Inventory": 4557
+  },
+  "kmt_final_active_rows": 2539,
+  "rbi_active_review_rows": 5774,
+  "rbi_rows_represented_by_folder1_hash": 1217,
+  "rbi_remaining_rows_folder3": 4557,
+  "missing_indexed_pdfs": 0,
+  "bad_pdf_headers": 0,
+  "workbook_sheets": [
+    "Summary",
+    "Final Active LRR",
+    "PDF Delivery Index",
+    "RBI Remaining Index"
+  ]
+}
