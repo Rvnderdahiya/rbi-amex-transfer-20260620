@@ -1,0 +1,4 @@
+evidence_snapshots/
+*_restore_test/
+evidence_snapshots.zip
+evidence_snapshots_combined.zip.tmp
