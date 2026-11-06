@@ -1,0 +1,31 @@
+{
+  "source": "CKYCR",
+  "collection_cutoff": "2026-11-05",
+  "source_occurrences": 126,
+  "document_inventory_entries": 123,
+  "original_pdfs": 123,
+  "original_pdf_pages": 252,
+  "other_original_attachments": 4,
+  "unresolved_supporting_reference_urls": 17,
+  "publisher_pdf_structure_warning_count": 6,
+  "applicability": "Preliminary, subject to compliance confirmation",
+  "overall_tranche_status": "In progress",
+  "git_lfs_used": false,
+  "files": [
+    {
+      "file": "CKYCR_Review_Package.zip",
+      "bytes": 34681985,
+      "sha256": "852efcbabfed4b8b21cd27bab1300442efc4d207f1d046c72072b8067e56c83c"
+    },
+    {
+      "file": "CKYCR_Inventory.xlsx",
+      "bytes": 49048,
+      "sha256": "c91a08e1e129fd4ed73fecde794c98f805de5bb1bc9600daef37067cc985c82b"
+    },
+    {
+      "file": "Read_Me.txt",
+      "bytes": 5022,
+      "sha256": "9fdcf51ac625adcb816dd5f229b1d3924d2c225008fc9339e8d3790c1c40b6eb"
+    }
+  ]
+}
