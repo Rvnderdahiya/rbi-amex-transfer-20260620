@@ -1,0 +1,54 @@
+{
+  "source": "FIU India",
+  "cutoff": "2026-11-05",
+  "inventory_rows": 182,
+  "requested_columns": 7,
+  "canonical_source_announcements": 213,
+  "excluded_announcements": 31,
+  "pdf_files": 183,
+  "pdf_pages": 942,
+  "xls_files": 1,
+  "missing_retained_attachment_originals": 0,
+  "portal_only_items": 1,
+  "ordinary_independent_zips": true,
+  "git_lfs": false,
+  "final_legal_applicability_approved": false,
+  "all_pages_human_word_for_word_read": false,
+  "files": [
+    {
+      "file": "FIU_Inventory_Audit.zip",
+      "bytes": 205813,
+      "sha256": "8947fa1c94a4fab88ba0cad39647d8fbad5cfabefa4db94b1bcc3c65ac29796f"
+    },
+    {
+      "file": "FIU_Originals_01.zip",
+      "bytes": 43940303,
+      "sha256": "89335d7c96e2ef23a7a8b07044d999839f734e1c9ddcd1928963ac527517ec15"
+    },
+    {
+      "file": "FIU_Originals_02.zip",
+      "bytes": 88771285,
+      "sha256": "527fe4a56df239eb8f585752ea143e3e643d074b354893cfefd72d996d93ce0a"
+    },
+    {
+      "file": "FIU_Inventory.xlsx",
+      "bytes": 45638,
+      "sha256": "5f9268cafda2013881c25202f7e2f6053e6270fca69b75fe790bc7c6370ee049"
+    },
+    {
+      "file": "READ_ME.txt",
+      "bytes": 5899,
+      "sha256": "39057d1f4493fdfb0f12a353313a54c1d55e65028f18da458a74ee0982872ce6"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2348,
+      "sha256": "b18132db6f7ad298eaeb9fec1876ff945028c494677ec1d2b2779b7ab6cfce7c"
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "bytes": 503,
+      "sha256": "06ce84ba4f4b1946ceaa7bab6d018044fae2fcd33ff7b8389ed1041ca00e847d"
+    }
+  ]
+}

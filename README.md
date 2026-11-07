@@ -10,7 +10,7 @@ packages will be added to this same branch after validation.
 | IRDAI | `IRDAI/` | Package not yet uploaded |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 96 retained entries, 66 exclusions; one training-media content review pending |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
-| FIU India | `FIU_India/` | Package not yet uploaded |
+| FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
 | Gazette of India | `Gazette/` | Package not yet uploaded |
 
 ## Download CKYCR
@@ -83,6 +83,33 @@ dates, title/date discrepancies and language compilation differences are explici
 One source-content exception remains: the 23 October 2018 circular refers to an
 Attorney General opinion which is absent from its two-page publisher PDF and
 was not separately recovered. Read `READ_ME.txt` and the audit exceptions.
+
+## Download FIU India
+
+Open `FIU_India/` and follow its README. Download `FIU_Inventory_Audit.zip`,
+`FIU_Originals_01.zip` and `FIU_Originals_02.zip`. Extract all three into the same
+parent folder, merging their `FIU_India` folder. These are independent ordinary
+ZIPs, not split parts. No Git cloning, Git LFS or assembly script is required.
+Open the workbook inside that combined folder to use the portable original links.
+
+What's New and Archives reconcile to 213 distinct announcements, with 18 repeated
+listing appearances consolidated. The four supplied title/full-document exclusion
+phrases remove 31 announcements, leaving 182 inventory rows. All retained
+attachment-bearing notices have their originals supplied: 183 PDFs / 942 pages
+and one original XLS. One further retained item is only a FINnet portal link and
+offers no attachment. Its listing extract is labelled, not converted into a fake PDF.
+
+The broken FINGate memorandum link was recovered using the same official FIU
+filename without an extra space. Its subject, reference and 11 April 2023 date
+were verified on the original page. Failed-link and recovery evidence are retained.
+All originals match their captured hashes. Every PDF page rendered in two engines.
+The seven-column workbook passed native Excel checks before and after extraction,
+including all 1,274 data cells and 364 hyperlinks. Publisher PDF structural warnings,
+partial/missing issue dates and OCR limitations are disclosed in Audit and READ_ME.
+
+The four exclusions were not expanded to remove every staffing or tender notice.
+AEBC relevance is preliminary and role-specific, not a final legal/current-force
+approval. Drafts, final policies and historical transition instructions are distinct.
 
 The overall multi-regulator tranche remains in progress. The status table refers
 only to packages actually uploaded here, not to final regulatory approval.
