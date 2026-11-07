@@ -1,0 +1,34 @@
+{
+  "source": "UIDAI",
+  "cutoff": "2026-11-05",
+  "inventory_rows": 100,
+  "source_items": 101,
+  "instrument_pdfs": 108,
+  "supporting_provenance_pdfs": 1,
+  "ordinary_zip": true,
+  "git_lfs": false,
+  "final_legal_applicability_approved": false,
+  "known_source_content_exception": "Attorney General opinion referenced by the 2018 bank-account circular is absent from the publisher PDF and was not recovered.",
+  "files": [
+    {
+      "file": "UIDAI_Review_Package.zip",
+      "bytes": 84337264,
+      "sha256": "5c0d707154b560d20631c487e5c1e55eaa83e1e35b46e290ee0da43f136132c8"
+    },
+    {
+      "file": "UIDAI_Inventory.xlsx",
+      "bytes": 32535,
+      "sha256": "be5be41d9cc8092f1c74920672b0886e372703136e7edd45db3548edccc73a2f"
+    },
+    {
+      "file": "READ_ME.txt",
+      "bytes": 4371,
+      "sha256": "3eb22d239e2c2fc3e2705ff073cada2b347f90afb2d3d16107193f8650c0f48c"
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "bytes": 259,
+      "sha256": "ebb252238b1036260df3670d4c0f4988148b2bf296b3aa56e0409970dd3f5928"
+    }
+  ]
+}

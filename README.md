@@ -9,7 +9,7 @@ packages will be added to this same branch after validation.
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
 | IRDAI | `IRDAI/` | Package not yet uploaded |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 96 retained entries, 66 exclusions; one training-media content review pending |
-| UIDAI | `UIDAI/` | Package not yet uploaded |
+| UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Package not yet uploaded |
 | Gazette of India | `Gazette/` | Package not yet uploaded |
 
@@ -60,6 +60,29 @@ Office, archive and data files are supplied where offered. Announcement-only
 entries have saved text evidence, not manufactured PDFs. One linked original
 training video is supplied with its full-content review still pending. Literal
 keyword context risks and mutable historical links are disclosed in the audit.
+
+## Download UIDAI
+
+Open `UIDAI/` and download `UIDAI_Review_Package.zip`. Extract the whole ordinary
+ZIP and open `UIDAI_Inventory.xlsx` alongside `Originals` and `Audit`. No Git
+cloning, Git LFS or assembly script is required. The separate workbook alone
+does not include the PDF folders.
+
+The six requested sections contain 101 source items. One exact duplicate SOP
+listing is consolidated, giving 100 inventory rows in the seven requested
+columns. The package supplies 107 distinct listed PDF payloads and one recovered
+original 2020 Gazette, plus an RTI disclosure PDF documenting that recovery.
+All 1,065 pages rendered in two PDF engines. The workbook opened in native Excel
+without recovery, including after ZIP extraction. All file links and hashes
+were checked. Screenshots are not substitutes for the originals.
+
+No UIDAI subject/HR/status exclusions were specified. Historical and internal
+documents are retained, with document-specific preliminary AEBC relevance.
+Conditional relevance requires confirmation of AEBC's actual role. Missing issue
+dates, title/date discrepancies and language compilation differences are explicit.
+One source-content exception remains: the 23 October 2018 circular refers to an
+Attorney General opinion which is absent from its two-page publisher PDF and
+was not separately recovered. Read `READ_ME.txt` and the audit exceptions.
 
 The overall multi-regulator tranche remains in progress. The status table refers
 only to packages actually uploaded here, not to final regulatory approval.
