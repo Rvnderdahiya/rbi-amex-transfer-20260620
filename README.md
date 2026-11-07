@@ -8,7 +8,7 @@ packages will be added to this same branch after validation.
 | --- | --- | --- |
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
 | IRDAI | `IRDAI/` | Package not yet uploaded |
-| CERSAI | `CERSAI/` | Package not yet uploaded |
+| CERSAI | `CERSAI/` | Collected-source review package uploaded; 96 retained entries, 66 exclusions; one training-media content review pending |
 | UIDAI | `UIDAI/` | Package not yet uploaded |
 | FIU India | `FIU_India/` | Package not yet uploaded |
 | Gazette of India | `Gazette/` | Package not yet uploaded |
@@ -46,6 +46,20 @@ listed separately. Sixteen undated documents remain explicitly undated.
 The SOPs retain their publisher's **Confidential** marking. Repository visibility
 does not change that classification. Use and onward distribution remain subject
 to the relevant permissions. Consult the package's `Read_Me.txt` for details.
+
+## Download CERSAI
+
+Open `CERSAI/` and download `CERSAI_Review_Package.zip`. Extract the entire ZIP
+to a short folder named `CERSAI` in Documents. Open the workbook inside that
+folder and keep it beside `Originals`, `Announcements`, `Supporting` and `Audit`.
+No Git cloning or Git LFS is required. Its seven-column inventory accounts for
+96 retained source entries, with all 66 exclusions separately recorded.
+
+The 162-entry source capture is reconciled to the live listing. Original PDF,
+Office, archive and data files are supplied where offered. Announcement-only
+entries have saved text evidence, not manufactured PDFs. One linked original
+training video is supplied with its full-content review still pending. Literal
+keyword context risks and mutable historical links are disclosed in the audit.
 
 The overall multi-regulator tranche remains in progress. The status table refers
 only to packages actually uploaded here, not to final regulatory approval.

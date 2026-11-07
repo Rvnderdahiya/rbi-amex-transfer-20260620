@@ -1,0 +1,41 @@
+{
+  "source": "CERSAI",
+  "collection_cutoff": "2026-11-05",
+  "source_occurrences": 162,
+  "retained_inventory_entries": 96,
+  "excluded_entries": 66,
+  "retained_original_pdf_files": 21,
+  "all_captured_pdf_files_including_excluded": 55,
+  "all_captured_pdf_pages": 1484,
+  "all_captured_document_archive_payloads": 65,
+  "additional_original_training_mp4": 1,
+  "notices_without_attached_download": 71,
+  "date_not_stated_inventory_entries": 12,
+  "full_media_content_review_pending": [
+    89
+  ],
+  "literal_filter_context_exceptions": [
+    58,
+    150
+  ],
+  "applicability": "Preliminary AEBC review, not legal sign-off",
+  "overall_tranche_status": "In progress",
+  "git_lfs_used": false,
+  "files": [
+    {
+      "file": "CERSAI_Review_Package.zip",
+      "bytes": 79693616,
+      "sha256": "a809d2389169ce6e5813ab4d73780a44f313619be04b0a6f0e2ba4f28d0b15bd"
+    },
+    {
+      "file": "CERSAI_Inventory.xlsx",
+      "bytes": 42577,
+      "sha256": "3e3784fbf6668b22faec4b68ed975acb91f6a6ac7e9c6764ffa9fe9f5187a779"
+    },
+    {
+      "file": "Read_Me.txt",
+      "bytes": 4634,
+      "sha256": "a684183809b548adaa37ecc9e4f22ec8852b6c7b29d54f09abd04a2d3976e200"
+    }
+  ]
+}
