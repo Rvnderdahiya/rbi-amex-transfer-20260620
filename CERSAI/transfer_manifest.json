@@ -2,20 +2,22 @@
   "source": "CERSAI",
   "collection_cutoff": "2026-11-05",
   "source_occurrences": 162,
-  "retained_inventory_entries": 96,
-  "excluded_entries": 66,
+  "retained_inventory_entries": 95,
+  "excluded_entries": 67,
   "retained_original_pdf_files": 21,
   "all_captured_pdf_files_including_excluded": 55,
   "all_captured_pdf_pages": 1484,
   "all_captured_document_archive_payloads": 65,
   "additional_original_training_mp4": 1,
-  "notices_without_attached_download": 71,
+  "notices_without_attached_download": 70,
   "date_not_stated_inventory_entries": 12,
-  "full_media_content_review_pending": [
+  "full_media_content_review_pending": [],
+  "confirmed_media_exclusions": [
     89
   ],
   "literal_filter_context_exceptions": [
     58,
+    89,
     150
   ],
   "applicability": "Preliminary AEBC review, not legal sign-off",
@@ -24,18 +26,18 @@
   "files": [
     {
       "file": "CERSAI_Review_Package.zip",
-      "bytes": 79693616,
-      "sha256": "a809d2389169ce6e5813ab4d73780a44f313619be04b0a6f0e2ba4f28d0b15bd"
+      "bytes": 79837699,
+      "sha256": "2cc5f0af5804c0714010d6bc03565bd94235102e9863431dc5733934dd5ae0dd"
     },
     {
       "file": "CERSAI_Inventory.xlsx",
-      "bytes": 42577,
-      "sha256": "3e3784fbf6668b22faec4b68ed975acb91f6a6ac7e9c6764ffa9fe9f5187a779"
+      "bytes": 42216,
+      "sha256": "3d2cbf6881494fbfd63019ce6f362720b56e39159bac3511c3a3f58775a69178"
     },
     {
       "file": "Read_Me.txt",
-      "bytes": 4634,
-      "sha256": "a684183809b548adaa37ecc9e4f22ec8852b6c7b29d54f09abd04a2d3976e200"
+      "bytes": 5109,
+      "sha256": "f46310e3bfd3cc6efe86d92e3a508054218c3523ba8d3dbfedcd721fa3916476"
     }
   ]
 }

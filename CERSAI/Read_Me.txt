@@ -3,8 +3,8 @@ Collection cutoff: 5 November 2026
 
 WHAT IS INCLUDED
 162 captured public source entries (103 English, 59 Hindi). The inventory
-retains 96 announcements and records 66 exclusions separately.
-These are not 96 unique laws. Historical messages, technical files,
+retains 95 announcements and records 67 exclusions separately.
+These are not 95 unique laws. Historical messages, technical files,
 recruitment notices not caught by the four rules, and language variants remain.
 
 OPEN THE PACKAGE
@@ -35,8 +35,14 @@ exclusions were added. Expiry/hidden flags do not establish legal withdrawal.
 No prior RBI/KMT active-only or scope filters are imported into this tranche.
 
 IMPORTANT REVIEW POINTS
-1. One original training MP4 is supplied. Full audio/visual content is NOT yet
-   reviewed against the exclusion terms. Its inventory row explicitly requires review.
+1. Training announcement 89 is excluded under the confirmed literal rule:
+   Maintenance is visible in its statutory records-rule title. The original MP4
+   remains in Audit/Excluded_files. Audit/MediaScope.json records the user decision,
+   source identity and matching frame. Audit/M001.jpg is supporting evidence, not
+   an original notice. This exclusion does not mean no AEBC compliance relevance.
+   Local ASR covered the decoded audio, but contains flagged machine output.
+   A continuous manual audio/visual review is not claimed or needed to prove
+   this observed positive match. The earlier failed ASR attempt is preserved.
 2. Batch Master notice 58 is excluded because Bid appears as a locality name.
    This follows the confirmed full-content rule, but is a potential false
    exclusion. Its actual file and exact evidence remain in Audit/Excluded_files.
