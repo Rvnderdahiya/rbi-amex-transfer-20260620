@@ -8,7 +8,7 @@ packages will be added to this same branch after validation.
 | --- | --- | --- |
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
 | IRDAI | `IRDAI/` | Package not yet uploaded |
-| CERSAI | `CERSAI/` | Collected-source review package uploaded; 96 retained entries, 66 exclusions; one training-media content review pending |
+| CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
 | Gazette of India | `Gazette/` | Package not yet uploaded |
@@ -53,13 +53,17 @@ Open `CERSAI/` and download `CERSAI_Review_Package.zip`. Extract the entire ZIP
 to a short folder named `CERSAI` in Documents. Open the workbook inside that
 folder and keep it beside `Originals`, `Announcements`, `Supporting` and `Audit`.
 No Git cloning or Git LFS is required. Its seven-column inventory accounts for
-96 retained source entries, with all 66 exclusions separately recorded.
+95 retained source entries, with all 67 exclusions separately recorded.
 
-The 162-entry source capture is reconciled to the live listing. Original PDF,
+The 162-entry source capture and dated 7 November listing recheck are reconciled
+in the audit. Original PDF,
 Office, archive and data files are supplied where offered. Announcement-only
 entries have saved text evidence, not manufactured PDFs. One linked original
-training video is supplied with its full-content review still pending. Literal
-keyword context risks and mutable historical links are disclosed in the audit.
+training video is preserved in `Audit/Excluded_files`. Its opening slide contains
+Maintenance in a statutory records-rule title. The user confirmed applying that
+literal exclusion. The audit supplies the matching frame and decision. This is
+not a finding of no compliance relevance or a claim of continuous manual video
+review. Literal keyword context risks and mutable historical links remain explicit.
 
 ## Download UIDAI
 
