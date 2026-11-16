@@ -1,0 +1,13 @@
+IRDAI INTERIM REVIEW BATCH 01
+Status: Interim, controlled review batch. This is not the complete IRDAI inventory and is not a legal/current-force approval.
+
+Included: 163 unique IRDAI source records: 139 from numbered review cohorts 2-13 and 24 from the separately reviewed short-notice cohort. All passed the exact supplied exclusion screen and had no open metadata, date, source-component or document-identity hold at batch assembly.
+Originals: 190 direct attachment references plus 5 publisher-linked PDF references map to 185 unique original PDF payloads; 450 attachment-occurrence pages were visually reviewed. 9 exact-byte duplicate groups are retained in the manifest so source occurrences remain traceable.
+Pending_Review contains 97 direct attachment references and 89 unique PDFs. One payload is byte-identical to a PDF in Originals, so the two folders contain 273 distinct PDF byte streams across 274 copies.
+All PDFs in this batch were rehashed during assembly and matched the SHA-256 in the review evidence. The original bytes were copied unchanged.
+The Inventory worksheet contains the seven requested fields. Date values are source-backed dates; Audit/PDF_Manifest.csv distinguishes direct and publisher-linked PDFs and preserves date role, source URL, attachment ID, relative file name, SHA-256 and page count.
+The Applicability for AEBC field is a preliminary content-based assessment, not a legal or compliance approval. Current-force/repeal/withdrawal status is not certified in this batch.
+The supplied exact exclusion phrases checked were: Eligible trainees for Insurance of India; bid for procurement; Order in the matter of; Surveyor Pre-Licensing; Request for Quotation. No exact phrase hit was found in the included 163 records. The separate unconfirmed wording variant “Eligible trainees for Insurance Institute of India” was not added as an exclusion; no occurrence was found in these 242 reviewed records.
+Open items: 79 records from these same review cohorts are held out of the cleared inventory. Their 97 direct attachment references map to 89 unchanged PDFs in Pending_Review/; see Audit/Open_Review_Queue.csv and Audit/Pending_Review_PDF_Manifest.csv. Hold reason counts overlap and are not additive.
+Separately linked source records: 11; these are catalogued in Audit/Related_Source_Records.csv and are not represented as cleared inventory rows.
+Use Audit/PDF_Manifest.csv to locate cleared-batch originals in Originals/. Use Audit/Pending_Review_PDF_Manifest.csv only for held records in Pending_Review/. Do not treat the batch count as the full portal population or as a count of unique legal instruments.
