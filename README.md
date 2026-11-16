@@ -7,7 +7,7 @@ packages will be added to this same branch after validation.
 | Source | Folder | Uploaded Status |
 | --- | --- | --- |
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
-| IRDAI | `IRDAI/` | Package not yet uploaded |
+| IRDAI | `IRDAI_Review_Batch_01_Interim/` | Interim review batch uploaded; full IRDAI inventory remains in progress |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
@@ -64,6 +64,21 @@ Maintenance in a statutory records-rule title. The user confirmed applying that
 literal exclusion. The audit supplies the matching frame and decision. This is
 not a finding of no compliance relevance or a claim of continuous manual video
 review. Literal keyword context risks and mutable historical links remain explicit.
+
+## Download IRDAI Interim Batch 01
+
+Open `IRDAI_Review_Batch_01_Interim/` and download
+`IRDAI_Review_Batch_01_Interim_TRANSFER.zip`. Extract the ZIP to a short folder.
+Open the workbook beside `Originals`, `Pending_Review` and `Audit`; use the PDF
+manifests to map source rows to files. The separate workbook is available in the
+same GitHub folder for preview.
+
+This batch contains 163 source-reviewed inventory rows from a bounded IRDAI
+subset. A further 79 reviewed records are held in `Pending_Review` and are not
+in the inventory worksheet. The full IRDAI source review and final workbook are
+not complete. Applicability is preliminary, and current legal status is not
+certified. See the batch README and audit files for the scope, file counts,
+exclusion checks, hashes and open items.
 
 ## Download UIDAI
 
