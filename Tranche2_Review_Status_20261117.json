@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-17T11:49:48.392836+00:00",
-  "generated_at_ist": "2026-11-17T17:19:48.392836+05:30",
+  "generated_at_utc": "2026-11-17T12:02:56.157840+00:00",
+  "generated_at_ist": "2026-11-17T17:32:56.157840+05:30",
   "status": "IN PROGRESS - NOT A COMPLETE TRANCHE 2 HANDOVER",
   "complete_tranche_ready": false,
   "previously_shared_sources": [
@@ -40,9 +40,9 @@
     }
   },
   "gazette": {
-    "nonoverlapping_source_records_delivered_across_all_batches": 202,
-    "inventory_entries_delivered_across_all_batches": 236,
-    "reviewed_batches_uploaded": 4,
+    "nonoverlapping_source_records_delivered_across_all_batches": 282,
+    "inventory_entries_delivered_across_all_batches": 324,
+    "reviewed_batches_uploaded": 5,
     "full_inventory_ready": false,
     "canonical_source_notice_rows": 18861,
     "effective_source_scope_partition": {
@@ -154,6 +154,18 @@
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     },
     {
+      "regulator": "Gazette",
+      "batch": "05",
+      "source_records": 80,
+      "inventory_entries": 88,
+      "unique_original_pdfs": 81,
+      "physical_pdf_pages": 166,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_05_Interim",
+      "commit": "11c5ec3d6cc08eae3c3ddac6be717bbbb9f0ffb4",
+      "archive_sha256": "ad31f3b8612233a44540e5419e280d8ca3c18c595c437c5e7d00ccc85691c005",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
       "regulator": "IRDAI",
       "batch": "03",
       "source_records": 10,
@@ -214,9 +226,9 @@
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     }
   ],
-  "latest_verified_remote_commit": "6497d3122b278dc509013556eb7505cab30f2ee7",
-  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_07_Interim",
-  "source_overlay_sha256": "2433f77f8d2299cf74ec357190af16d23abb73f208e767ed794c97c08a39dbbb",
+  "latest_verified_remote_commit": "11c5ec3d6cc08eae3c3ddac6be717bbbb9f0ffb4",
+  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_05_Interim",
+  "source_overlay_sha256": "67dcfd2f7247427a2053a5d4343d240671d7e6576df80c30bfb4d037bee08679",
   "scope_clarification": {
     "affected_source_records_including_official_labels": 28,
     "additional_exclusions": 0,

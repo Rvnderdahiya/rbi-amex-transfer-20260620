@@ -21,6 +21,7 @@ packages will be added to this same branch after validation.
 | Gazette of India Batch 02 | [Open package folder](Gazette_Review_Batch_02_Interim/) | 33 individually reviewed notices from 9 multi-notice original PDFs |
 | Gazette of India Batch 03 | [Open package folder](Gazette_Review_Batch_03_Interim/) | 85 inventory entries from 80 source records and 80 original PDFs |
 | Gazette of India Batch 04 | [Open package folder](Gazette_Review_Batch_04_Interim/) | 77 inventory entries from 72 source records and 72 original PDFs |
+| Gazette of India Batch 05 | [Open package folder](Gazette_Review_Batch_05_Interim/) | 88 inventory entries from 80 source records and 81 original PDFs |
 
 ## Review Checkpoint - 17 November 2026
 
@@ -44,13 +45,18 @@ plus one further official-label match, were already excluded by another supplied
 phrase. No second subtraction or extra 28-record reduction was applied.
 
 Gazette's 18,861 canonical source notice rows reconcile to 11,646 retained under
-source rules, 5,907 excluded and 1,308 held. The four uploaded Gazette batches
-contain 236 inventory entries from 202 nonoverlapping source records. Multiple
+source rules, 5,907 excluded and 1,308 held. The five uploaded Gazette batches
+contain 324 inventory entries from 282 nonoverlapping source records. Multiple
 independently numbered notices in a PDF have separate rows; bilingual versions
 of one notice do not. The remaining
 metadata, held content reviews and six unresolved publisher-original targets
 are not represented as completed. Retained notices and PDF files are different
 counting units.
+
+Batch 05 also supplies an officially recovered, complete English original of
+the 9 November 2000 TRAI Tenth Amendment, alongside the captured Gazette
+version. This resolves a missing English continuation for that item; it is
+separate from the six unresolved publisher-original targets listed in the audit.
 
 ## Download the Additional Reviewed Batches
 
