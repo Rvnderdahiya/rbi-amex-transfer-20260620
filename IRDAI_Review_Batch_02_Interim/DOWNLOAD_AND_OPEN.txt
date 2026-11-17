@@ -1,0 +1,9 @@
+IRDAI Review Batch 02
+Download every ZIP in this folder. These are ordinary independent ZIPs, not split archive parts.
+Extract each ZIP to the SAME short folder, for example C:\LRR. Do not create a separate destination for each ZIP.
+The extraction creates IRDAI_Batch02 with the workbook, Audit folder and Originals folder together.
+Open IRDAI_Batch02/IRDAI_Inventory_Batch_02.xlsx. Click the document title to open its first PDF.
+Audit/PDF_Manifest.csv identifies every associated PDF by source record and includes its official URL and SHA-256.
+This batch contains 625 additional source records and 641 unique original PDFs.
+This is an interim reviewed subset, not the completed IRDAI inventory or complete Tranche 2 handover.
+All ZIP member hashes were verified. Original PDFs were not converted, rewritten or replaced.
