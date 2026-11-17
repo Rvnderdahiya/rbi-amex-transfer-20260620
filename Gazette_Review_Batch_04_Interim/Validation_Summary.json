@@ -1,0 +1,18 @@
+{
+  "validated_at_utc": "2026-11-17T11:37:50.236636+00:00",
+  "status": "VALIDATED BOUNDED REVIEW BATCH ONLY",
+  "inventory_rows": 77,
+  "original_attachment_references": 77,
+  "unique_original_pdfs": 72,
+  "physical_pdf_pages_independently_rendered": 141,
+  "native_excel_cells_checked": 539,
+  "native_excel_links_checked": 154,
+  "reader_warnings": 1,
+  "originals_not_repaired_or_rewritten": true,
+  "archive_file": "Gazette_Review_Batch_04.zip",
+  "archive_bytes": 4718938,
+  "archive_sha256": "3f9c1ce94110fe1d08933da17f7cecfce1fa8cbe171ef01666b45f111e303662",
+  "archive_members_all_crc_and_sha256_checked": 80,
+  "screenshots_in_archive": false,
+  "full_tranche_complete": false
+}
