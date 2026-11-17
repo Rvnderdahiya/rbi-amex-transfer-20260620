@@ -11,42 +11,55 @@ packages will be added to this same branch after validation.
 | IRDAI Batch 02 | [Open package folder](IRDAI_Review_Batch_02_Interim/) | 625 additional source-reviewed inventory entries; interim subset |
 | IRDAI Batch 03 | [Open package folder](IRDAI_Review_Batch_03_Interim/) | 9 inventory entries from 10 additional source records; 16 distinct original PDFs |
 | IRDAI Batch 04 | [Open package folder](IRDAI_Review_Batch_04_Interim/) | 9 inventory entries from 13 additional source records; 17 distinct original PDFs |
+| IRDAI Batch 05 | [Open package folder](IRDAI_Review_Batch_05_Interim/) | 14 inventory entries from 18 additional source records; 27 original PDFs |
+| IRDAI Batch 06 | [Open package folder](IRDAI_Review_Batch_06_Interim/) | 17 inventory entries from 20 additional source records; 32 original PDFs |
+| IRDAI Batch 07 | [Open package folder](IRDAI_Review_Batch_07_Interim/) | 17 inventory entries from 24 additional source records; 29 original PDFs |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
 | Gazette of India Batch 01 | [Open package folder](Gazette_Review_Batch_01_Interim/) | 41 reviewed single-notice entries; 41 original PDFs; interim subset |
+| Gazette of India Batch 02 | [Open package folder](Gazette_Review_Batch_02_Interim/) | 33 individually reviewed notices from 9 multi-notice original PDFs |
+| Gazette of India Batch 03 | [Open package folder](Gazette_Review_Batch_03_Interim/) | 85 inventory entries from 80 source records and 80 original PDFs |
+| Gazette of India Batch 04 | [Open package folder](Gazette_Review_Batch_04_Interim/) | 77 inventory entries from 72 source records and 72 original PDFs |
 
 ## Review Checkpoint - 17 November 2026
 
 The full Tranche 2 handover is **not complete**. The uploaded IRDAI batches
-cover 811 nonoverlapping source records in 806 inventory entries. Five confirmed
-duplicate catalogue representations were merged in Batches 03 and 04, with every
+cover 873 nonoverlapping source records in 854 inventory entries. Nineteen confirmed
+duplicate catalogue representations were merged in Batches 03 through 07, with every
 source occurrence and original PDF retained in their audit manifests. These
 counts are not a count of unique laws or a current-force approval.
 
-IRDAI's 5,733 captured source records currently reconcile to 1,507 retained under
-the supplied collection rules, 335 excluded, 3,890 requiring further content
+IRDAI's 5,733 captured source records currently reconcile to 1,586 retained under
+the supplied collection rules, 335 excluded, 3,811 requiring further content
 review, and one mixed archive requiring individual treatment. Source-rule
 retention does not mean the seven fields or legal applicability are complete.
-The earlier source snapshot is preserved; 25 content holds were cleared through
+The earlier source snapshot is preserved; 104 content holds were cleared through
 separately hash-bound complete-page reviews. Missing content and ambiguous dates
 remain held rather than guessed.
 
-Gazette's 18,861 canonical source notice rows reconcile to 11,653 retained under
-source rules, 5,902 excluded and 1,306 held. Only the 41 individually completed
-single-notice reviews are supplied in this first Gazette workbook. The remaining
+The newly confirmed Insurance Institute of India trainee wording was checked in
+source titles and official download labels. All 27 previously flagged records,
+plus one further official-label match, were already excluded by another supplied
+phrase. No second subtraction or extra 28-record reduction was applied.
+
+Gazette's 18,861 canonical source notice rows reconcile to 11,646 retained under
+source rules, 5,907 excluded and 1,308 held. The four uploaded Gazette batches
+contain 236 inventory entries from 202 nonoverlapping source records. Multiple
+independently numbered notices in a PDF have separate rows; bilingual versions
+of one notice do not. The remaining
 metadata, held content reviews and six unresolved publisher-original targets
 are not represented as completed. Retained notices and PDF files are different
 counting units.
 
 ## Download the Additional Reviewed Batches
 
-For IRDAI Batches 03 and 04 and Gazette Batch 01, open the corresponding folder
+For IRDAI Batches 03 onward and all Gazette batches, open the corresponding folder
 above and download its ZIP. Use Windows **Extract All** to a short folder and
 open the workbook inside it. Keep `Originals` and `Audit` alongside the workbook.
 Each document title opens its local PDF; the website field opens the official
 source. No Git, Python, multipart joining or setup program is required for
-these three ordinary ZIPs. Their archives contain no screenshot substitutes.
+these ordinary ZIPs. Their archives contain no screenshot substitutes.
 
 Each new ZIP passed member CRC and SHA-256 checks, Windows extraction, native
 Excel checks before and after extraction, and full payload download/hash

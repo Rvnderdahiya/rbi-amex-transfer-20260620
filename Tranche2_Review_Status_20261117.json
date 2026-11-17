@@ -1,113 +1,71 @@
 {
-  "generated_at_utc": "2026-11-17T07:53:32.036674+00:00",
-  "generated_at_ist": "2026-11-17T13:23:32.036674+05:30",
+  "generated_at_utc": "2026-11-17T11:49:48.392836+00:00",
+  "generated_at_ist": "2026-11-17T17:19:48.392836+05:30",
   "status": "IN PROGRESS - NOT A COMPLETE TRANCHE 2 HANDOVER",
   "complete_tranche_ready": false,
   "previously_shared_sources": [
     {
       "source": "CKYCR",
-      "inventory_rows_previously_shared": 123,
-      "basis": "Previously shared by the user; not newly revalidated in this release."
+      "inventory_rows_previously_shared": 123
     },
     {
       "source": "CERSAI",
-      "inventory_rows_previously_shared": 95,
-      "basis": "Previously shared by the user; not newly revalidated in this release."
+      "inventory_rows_previously_shared": 95
     },
     {
       "source": "UIDAI",
-      "inventory_rows_previously_shared": 100,
-      "basis": "Previously shared by the user; not newly revalidated in this release."
+      "inventory_rows_previously_shared": 100
     },
     {
       "source": "FIU India",
-      "inventory_rows_previously_shared": 182,
-      "basis": "Previously shared by the user; not newly revalidated in this release."
+      "inventory_rows_previously_shared": 182
     }
   ],
   "irdai": {
+    "nonoverlapping_source_records_delivered_across_all_batches": 873,
+    "inventory_entries_delivered_across_all_batches": 854,
+    "reviewed_batches_uploaded": 7,
+    "full_inventory_ready": false,
     "captured_source_record_ids": 5733,
-    "source_scope_partition": {
-      "Review required: document content check incomplete": 3915,
+    "effective_source_scope_partition": {
+      "retained_under_source_rules": 1586,
+      "excluded_by_source_rules": 335,
+      "held_for_review": 3812
+    },
+    "effective_source_scope_counts": {
+      "Review required: document content check incomplete": 3811,
       "Excluded by supplied phrase": 335,
-      "Retained under supplied source rules": 1482,
+      "Retained under supplied source rules": 1586,
       "Review required: apply exclusion to individual documents within mixed archive": 1
-    },
-    "effective_source_scope_partition_after_supplement": {
-      "Review required: document content check incomplete": 3890,
-      "Excluded by supplied phrase": 335,
-      "Retained under supplied source rules": 1507,
-      "Review required: apply exclusion to individual documents within mixed archive": 1
-    },
-    "scope_retention_is_not_metadata_or_legal_approval": true,
-    "batch_01_source_records": 163,
-    "batch_02_source_records": 625,
-    "nonoverlapping_source_records_in_two_interim_batches": 788,
-    "batch_03_source_records": 10,
-    "batch_03_inventory_entries_after_one_confirmed_representation_duplicate_merge": 9,
-    "batch_03_distinct_original_pdfs": 16,
-    "batch_03_github_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_03_Interim",
-    "batch_03_commit": "1aa0aa41280d12cb525310dac80dd275f789c4fd",
-    "nonoverlapping_source_records_delivered_across_three_batches": 798,
-    "inventory_entries_delivered_across_three_batches": 797,
-    "inventory_entries_are_not_unique_laws_or_current_force_approvals": true,
-    "batch_04_source_records": 13,
-    "batch_04_inventory_entries_after_four_confirmed_representation_duplicate_merges": 9,
-    "batch_04_distinct_original_pdfs": 17,
-    "batch_04_github_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_04_Interim",
-    "batch_04_commit": "537e7c6dcf0a602ac1f10fa2e7e6246a79b6280c",
-    "nonoverlapping_source_records_delivered_across_all_batches": 811,
-    "inventory_entries_delivered_across_all_batches": 806,
-    "batch_02_distinct_pdf_payloads": 641,
-    "batch_02_pdf_pages_independently_rendered": 973,
-    "batch_02_zip_count": 14,
-    "batch_02_github_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_02_Interim",
-    "batch_02_final_commit": "40d30122c8e7893df514204863ef95edbb5a660b",
-    "batch_02_remote_files_fully_download_verified": 21,
-    "batch_02_native_excel_cells_verified": 4375,
-    "batch_02_native_excel_hyperlinks_verified": 1250,
-    "batch_02_windows_extraction_verified_data_files": 646,
-    "batch_02_local_setup_smoke_test_passed": true,
-    "assets_required_by_retained_or_held_sources_including_archive_members": 8401,
-    "required_asset_manifest_statuses": {
-      "pdf_parsed_all_pages": 5664,
-      "original_pdf_validation_failed": 124,
-      "legacy_office_signature_checked": 1032,
-      "office_package_integrity_checked": 1316,
-      "zip_integrity_checked": 190,
-      "rar_integrity_checked": 8,
-      "archive_validation_failed": 11,
-      "rtf_signature_checked": 8,
-      "unrecognised_original_format": 10,
-      "empty_response_not_original_document": 7,
-      "text_original_decoded": 21,
-      "html_spreadsheet_original": 4,
-      "download_or_validation_failed": 5,
-      "zip_native_integrity_checked": 1
-    },
-    "full_irdai_inventory_workbook_ready": false
+    }
   },
   "gazette": {
+    "nonoverlapping_source_records_delivered_across_all_batches": 202,
+    "inventory_entries_delivered_across_all_batches": 236,
+    "reviewed_batches_uploaded": 4,
+    "full_inventory_ready": false,
     "canonical_source_notice_rows": 18861,
-    "source_scope_partition": {
-      "retained_under_source_rules": 11653,
-      "excluded_by_source_rules": 5902,
-      "held_for_review": 1306
+    "effective_source_scope_partition": {
+      "retained_under_source_rules": 11646,
+      "excluded_by_source_rules": 5907,
+      "held_for_review": 1308
     },
-    "source_scope_counts": {
-      "Retained under supplied source rules": 11261,
+    "effective_source_scope_counts": {
+      "Retained under supplied source rules": 11344,
       "Excluded by supplied department/office rule": 4665,
       "Retained: individually resolved single-instrument Gazette bundle": 27,
       "Retained: individually resolved multi-instrument Gazette bundle": 6,
       "Review required: printed notice and source listing date conflict": 8,
       "Excluded: published Office heading matches supplied exclusion": 39,
+      "Review required: complete original scope evidence unresolved": 2,
+      "Excluded: complete original source-rule review": 5,
       "Excluded: all notices in bundle have supplied office exclusion": 4,
       "Review required: original Gazette content completeness issue": 37,
       "Retained: in-scope notices in individually resolved mixed-ministry Gazette bundle": 3,
       "Excluded: no MHA inclusion keyword in completely visually reviewed original": 878,
       "Excluded: no MHA inclusion keyword in fully read document": 300,
       "Review required: MHA full document keyword check incomplete": 1248,
-      "Retained: MHA keyword matched after department check": 354,
+      "Retained: MHA keyword matched after department check": 264,
       "Excluded: individually reviewed bundle has no requested ministry notice": 1,
       "Excluded: all in-scope notices fail supplied rules in individually read mixed-ministry bundle": 3,
       "Excluded: no MHA inclusion keyword in individually read Gazette bundle": 4,
@@ -119,7 +77,6 @@
       "Retained: MHA keyword matched in individually resolved Gazette bundle": 2,
       "Excluded: all notices in bundle have supplied department exclusion": 1
     },
-    "mha_full_document_keyword_review_held_rows": 1248,
     "publisher_original_targets_unresolved": [
       "NOTAVAILABLE(102732)",
       "NOTAVAILABLE(154618)",
@@ -127,32 +84,155 @@
       "NOTAVAILABLE(22887)",
       "NOTAVAILABLE(39698)",
       "NOTAVAILABLE(55844)"
-    ],
-    "source_snapshot_sha256": "a4aa1416a68615a6b426b5c2da8eb81eaa6931224d57276ff2e64965a3651c9f",
-    "full_gazette_inventory_workbook_ready": false,
-    "batch_01_reviewed_inventory_entries": 41,
-    "batch_01_distinct_original_pdfs": 41,
-    "batch_01_physical_pdf_pages_reviewed_and_rendered": 151,
-    "batch_01_github_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_01_Interim",
-    "batch_01_commit": "e679fbbcbd20be487160cbdd2087a75fbe83677a",
-    "batch_01_is_an_interim_subset_not_complete_gazette": true
+    ]
+  },
+  "reviewed_release_registry": [
+    {
+      "regulator": "IRDAI",
+      "batch": "01",
+      "source_records": 163,
+      "inventory_entries": 163,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_01_Interim",
+      "verification_basis": "Previously transferred; immutable source membership rechecked, not newly republished"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "02",
+      "source_records": 625,
+      "inventory_entries": 625,
+      "unique_original_pdfs": 641,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_02_Interim",
+      "commit": "40d30122c8e7893df514204863ef95edbb5a660b",
+      "verification_basis": "Native Excel, extraction and complete remote download hashes"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "01",
+      "source_records": 41,
+      "inventory_entries": 41,
+      "unique_original_pdfs": 41,
+      "physical_pdf_pages": 151,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_01_Interim",
+      "commit": "e679fbbcbd20be487160cbdd2087a75fbe83677a",
+      "archive_sha256": "072743fab479aa06d267704d1f3d01a1b0e7ef59e5aebda3721d4202fd097bd6",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "02",
+      "source_records": 9,
+      "inventory_entries": 33,
+      "unique_original_pdfs": 9,
+      "physical_pdf_pages": 146,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_02_Interim",
+      "commit": "190a5630313e5e9c3f14f944c93a36b5dce929e7",
+      "archive_sha256": "45024dbe688290129818343bc6a7badf24c79321684f13d54b9e0755a834b203",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "03",
+      "source_records": 80,
+      "inventory_entries": 85,
+      "unique_original_pdfs": 80,
+      "physical_pdf_pages": 203,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_03_Interim",
+      "commit": "3df6aa91300310f8d294dd7134e6e99139710284",
+      "archive_sha256": "97cf8f6f39c0374aeda44a5623830e7638e539e1629f50b57ef148443528692b",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "04",
+      "source_records": 72,
+      "inventory_entries": 77,
+      "unique_original_pdfs": 72,
+      "physical_pdf_pages": 141,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_04_Interim",
+      "commit": "a02122cb06dd03cd8e2a0a0b6dcf7591ce3f5584",
+      "archive_sha256": "3f9c1ce94110fe1d08933da17f7cecfce1fa8cbe171ef01666b45f111e303662",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "03",
+      "source_records": 10,
+      "inventory_entries": 9,
+      "unique_original_pdfs": 16,
+      "physical_pdf_pages": 17,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_03_Interim",
+      "commit": "1aa0aa41280d12cb525310dac80dd275f789c4fd",
+      "archive_sha256": "51cbba7f816a6cf28bcd5c8969a8b7cb617218096442f069749f1cefcb468546",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "04",
+      "source_records": 13,
+      "inventory_entries": 9,
+      "unique_original_pdfs": 17,
+      "physical_pdf_pages": 22,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_04_Interim",
+      "commit": "537e7c6dcf0a602ac1f10fa2e7e6246a79b6280c",
+      "archive_sha256": "33f21e40e5fa3d1e5e9aaca802c6a89517aed80e1b5cf93acf6233c505c3d17d",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "05",
+      "source_records": 18,
+      "inventory_entries": 14,
+      "unique_original_pdfs": 27,
+      "physical_pdf_pages": 31,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_05_Interim",
+      "commit": "b136389261beea7eb7bc1e981d39b34b97e6f94a",
+      "archive_sha256": "9d7b3f40e46b61e3dd73f2ff94e0a084a6f1d16c069d61755f317f8b04a56d44",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "06",
+      "source_records": 20,
+      "inventory_entries": 17,
+      "unique_original_pdfs": 32,
+      "physical_pdf_pages": 40,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_06_Interim",
+      "commit": "a558d4db9641c871527dca7d66f8445b9152ccf9",
+      "archive_sha256": "d56b067391f94797a9aa7ae14e9a961f1d5c16bcc195cce19db39abf53293ed0",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "07",
+      "source_records": 24,
+      "inventory_entries": 17,
+      "unique_original_pdfs": 29,
+      "physical_pdf_pages": 50,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_07_Interim",
+      "commit": "6497d3122b278dc509013556eb7505cab30f2ee7",
+      "archive_sha256": "d33f6d95788102bf606535890d8db6e26eae1b159d25091f05b8cbc34676a21d",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    }
+  ],
+  "latest_verified_remote_commit": "6497d3122b278dc509013556eb7505cab30f2ee7",
+  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_07_Interim",
+  "source_overlay_sha256": "2433f77f8d2299cf74ec357190af16d23abb73f208e767ed794c97c08a39dbbb",
+  "scope_clarification": {
+    "affected_source_records_including_official_labels": 28,
+    "additional_exclusions": 0,
+    "reason": "All 28 were already excluded by another confirmed phrase; no second subtraction."
+  },
+  "count_units": {
+    "source_records": "Distinct captured catalogue IDs, including preserved duplicate representations.",
+    "inventory_entries": "Released reviewed instruments/announcements after confirmed representation merges and explicit multi-notice splits.",
+    "original_pdfs": "Byte-distinct publisher PDF files in that package, including retained language/version originals.",
+    "applicability": "Preliminary document-specific assessment, not current-force or final legal approval."
   },
   "remaining_requirements": [
-    "Complete source-bound IRDAI content review. Do not clear scan/Office/wrong-version issues solely from a file signature or OCR negative.",
-    "Complete source-backed seven-field metadata and preliminary AEBC reasoning for the remaining nonexcluded IRDAI records.",
-    "Resolve or explicitly document IRDAI publisher-side original-format, wrong-link and historical-coverage exceptions.",
-    "Finish the held Gazette notice reviews, including department-first MHA keyword checks and publisher original recovery.",
-    "Complete original-document dates, issuer, nature, addressee and preliminary AEBC assessments for retained Gazette notices.",
-    "Reconcile all final rows to original attachments and source evidence, validate native Excel/extraction, and transfer remaining packages."
-  ],
-  "latest_verified_remote_commit": "537e7c6dcf0a602ac1f10fa2e7e6246a79b6280c",
-  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_04_Interim",
-  "input_evidence_sha256": {
-    "IRDAI_Completion_Controls_Current.json": "adea6973bc7b78a78d6cd66ed95dcfabb27ad86a660865572722a485c30cc6d1",
-    "Package_Validation.json": "64b55a23769176df4d4e29eaf7890c9f153c1f350497e8a9039b13ae6a7b0aaa",
-    "GitHub_Upload_Verification.json": "07d325d7d920153ef2b8e9d606a23661f7e3438ab8719af5f896785e95e2f58f",
-    "native_excel_check.json": "bc05b4677f005a9b5a7e9d3ae84d335c3e5f13e073049e8f57a23f5fb61d419c",
-    "extracted_native_excel_check.json": "4070fb8c981d472224a167ea785fd1d81fda709d70399e28ad7498b1abd22498",
-    "Windows_Extraction_Check.json": "1d01e8d1e577666f7633df0e86e73ea8b10918493d12d081687242152654b655"
-  }
+    "Finish complete-content and missing-component review of the remaining IRDAI source records.",
+    "Complete source-supported dates, addressees and preliminary AEBC reasons for unreleased IRDAI records; ambiguous dates remain held.",
+    "Finish remaining Gazette original/notice reviews and department-first MHA keyword checks.",
+    "Resolve or explicitly evidence source-description, bilingual-reference and publisher-original exceptions.",
+    "Reconcile final notice/record/PDF units, deduplication and exclusions before final regulator workbooks and full transfer."
+  ]
 }
