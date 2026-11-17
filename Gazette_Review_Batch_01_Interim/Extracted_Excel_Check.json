@@ -1,0 +1,14 @@
+{
+  "status": "Opened in native Microsoft Excel normal-load mode, read-only, without recovery",
+  "workbook_sha256": "bd8da60e2bd5ded6733128cb010aafd00e0a0f20e0e90b2f71ab18e07232b878",
+  "rows_verified": 41,
+  "columns_verified": 7,
+  "cells_verified": 287,
+  "hyperlinks_verified": 82,
+  "date_types_verified": true,
+  "date_evidence_notes_verified": true,
+  "frozen_header_verified": true,
+  "macros_disabled": true,
+  "external_link_updates_disabled": true,
+  "checked_utc": "2026-11-17T07:31:23.4466586Z"
+}
