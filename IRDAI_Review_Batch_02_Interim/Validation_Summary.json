@@ -1,0 +1,117 @@
+{
+  "validated_at_utc": "2026-11-17T05:18:56.315415+00:00",
+  "status": "VALIDATED ADDITIONAL REVIEW BATCH ONLY - FULL TRANCHE INCOMPLETE",
+  "source_records": 625,
+  "distinct_pdf_payloads": 641,
+  "physical_pdf_pages_rendered_in_pdfium": 973,
+  "original_attachment_references": 652,
+  "native_excel_cells_checked": 4375,
+  "native_excel_hyperlinks_checked": 1250,
+  "prior_batch_row_overlap": 0,
+  "packages": [
+    {
+      "file": "IRDAI_Batch02_Inventory.zip",
+      "bytes": 380679,
+      "sha256": "5085288a59b984bf3816de9f36512a6082acb140eb203961489d658da641c2ca",
+      "file_count": 6,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_01.zip",
+      "bytes": 20564556,
+      "sha256": "d95a12fcddba024590ed4b5670cc8e79646356b917b039b170dae3231f22aa13",
+      "file_count": 54,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_02.zip",
+      "bytes": 19337087,
+      "sha256": "c22315e05fa148fc2fb989a1641432920fca70bc03e3e9aace246416b8ebaae1",
+      "file_count": 50,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_03.zip",
+      "bytes": 19945106,
+      "sha256": "5de8270475f279c7e24cd5c932958b27fc1d3d753c929993ef8443a5e5ed3129",
+      "file_count": 53,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_04.zip",
+      "bytes": 20134915,
+      "sha256": "f99f551a03fabc63e3c33fd0e8bcbc8c1522c59416233baf55428a5aaf0d87e0",
+      "file_count": 59,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_05.zip",
+      "bytes": 20924161,
+      "sha256": "4cb1e61611e26a3964173be719c57759f69e897711bdd81064376434f835c6e6",
+      "file_count": 49,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_06.zip",
+      "bytes": 19611617,
+      "sha256": "c91371c628ad370396e9bec8e21fa4989bd452259ea9450b815a94aa30e8cf35",
+      "file_count": 29,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_07.zip",
+      "bytes": 18323488,
+      "sha256": "21a8d27951cd05013d09005859928ad91ef1830ea8b1e6c3d95da03a85f069d5",
+      "file_count": 57,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_08.zip",
+      "bytes": 20085157,
+      "sha256": "c042bbb6820b20ad65c0660a5b8c1453e6cb7d16bd00714bd32de1151b9a51e7",
+      "file_count": 47,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_09.zip",
+      "bytes": 19664656,
+      "sha256": "01a4052caafb811c5695765a490e6b4e2442fe01dfeb0542f63cfd77cf5baee7",
+      "file_count": 49,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_10.zip",
+      "bytes": 17595680,
+      "sha256": "f14fcccaf74a190e03865dabf19607386d62fdfe8b149b769cc7475ef6a9509d",
+      "file_count": 55,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_11.zip",
+      "bytes": 19121223,
+      "sha256": "542e308171e99baef3a2e67e00996a21d3d7b9016f64aa3bf7ffde30265378b5",
+      "file_count": 46,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_12.zip",
+      "bytes": 19204591,
+      "sha256": "717242dbf438dd7062f6659f698ca5fb5d3bbf57665a5b56a7af3ed6edca57cb",
+      "file_count": 46,
+      "every_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Batch02_Originals_13.zip",
+      "bytes": 15508258,
+      "sha256": "d08c46acc2025dc6ecef5d8cc73b387b473f1f4ca3b90d3d0976356f04ee6969",
+      "file_count": 47,
+      "every_member_crc_and_sha256_verified": true
+    }
+  ],
+  "portable_package_files": 647,
+  "screenshots_in_transfer_package": false,
+  "complete_tranche_ready": false,
+  "originals_with_pypdf_reader_warnings": 384,
+  "reader_warnings_preserved_in_independent_validation_report": true,
+  "reader_warnings_do_not_imply_original_bytes_were_repaired": true
+}
