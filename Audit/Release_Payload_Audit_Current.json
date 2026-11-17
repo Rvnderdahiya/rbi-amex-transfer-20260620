@@ -1,0 +1,155 @@
+{
+  "checked_utc": "2026-11-17T12:31:09.660915+00:00",
+  "original_file_locations_rehashed": 1326,
+  "bytes_rehashed": 440687517,
+  "originals_modified": false,
+  "release_checks": [
+    {
+      "regulator": "IRDAI",
+      "batch": "01",
+      "source_records": 163,
+      "inventory_entries": 163,
+      "original_file_locations_rehashed": 185,
+      "pdf_manifest_sha256": "fe4a0decf32ed9fdf7cc7b29e3a0f778ad47683b8fd5def812952759c66405a0",
+      "archive_sha256": null
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "02",
+      "source_records": 625,
+      "inventory_entries": 625,
+      "original_file_locations_rehashed": 641,
+      "pdf_manifest_sha256": "086151abd189b19562aa73b108f9ce3c0dc8d3b59c8801c4ac4bc14571c3ff6c",
+      "archive_sha256": null
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "01",
+      "source_records": 41,
+      "inventory_entries": 41,
+      "original_file_locations_rehashed": 41,
+      "pdf_manifest_sha256": "db025a0a8bfea084d52659ed3994db397b54a447eaeea462a6527f41c00665f4",
+      "archive_sha256": "072743fab479aa06d267704d1f3d01a1b0e7ef59e5aebda3721d4202fd097bd6"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "02",
+      "source_records": 9,
+      "inventory_entries": 33,
+      "original_file_locations_rehashed": 9,
+      "pdf_manifest_sha256": "20fc5062e947845a4ba7fbe9188837df495067293731269219342dd987afe968",
+      "archive_sha256": "45024dbe688290129818343bc6a7badf24c79321684f13d54b9e0755a834b203"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "03",
+      "source_records": 80,
+      "inventory_entries": 85,
+      "original_file_locations_rehashed": 80,
+      "pdf_manifest_sha256": "980161a297c24807bc9cdc0e49d0d949158c75be241b93b827cbb705f22796a4",
+      "archive_sha256": "97cf8f6f39c0374aeda44a5623830e7638e539e1629f50b57ef148443528692b"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "04",
+      "source_records": 72,
+      "inventory_entries": 77,
+      "original_file_locations_rehashed": 72,
+      "pdf_manifest_sha256": "e0b39d353c68bcfa8ac89cc7162d44405090e4f2eef24259e6ec48ffdf6a3e49",
+      "archive_sha256": "3f9c1ce94110fe1d08933da17f7cecfce1fa8cbe171ef01666b45f111e303662"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "05",
+      "source_records": 80,
+      "inventory_entries": 88,
+      "original_file_locations_rehashed": 81,
+      "pdf_manifest_sha256": "b4e107cead53834fb17c07598553dee116b71d1e542a369e28d57d926498d000",
+      "archive_sha256": "ad31f3b8612233a44540e5419e280d8ca3c18c595c437c5e7d00ccc85691c005"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "06",
+      "source_records": 72,
+      "inventory_entries": 74,
+      "original_file_locations_rehashed": 72,
+      "pdf_manifest_sha256": "f2e8d249b8f150f1e81fc017ea3601396d8fb61b52194e173a2f406f9ee9c04f",
+      "archive_sha256": "d1fd764113691173a62ccf9ffe471577053a28eb4cd7081973c7afad240cc9a4"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "03",
+      "source_records": 10,
+      "inventory_entries": 9,
+      "original_file_locations_rehashed": 16,
+      "pdf_manifest_sha256": "8fd7026250becbb358d98d6167fe48dd8ab7d3c41e2cd78e83371107a56a439b",
+      "archive_sha256": "51cbba7f816a6cf28bcd5c8969a8b7cb617218096442f069749f1cefcb468546"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "04",
+      "source_records": 13,
+      "inventory_entries": 9,
+      "original_file_locations_rehashed": 17,
+      "pdf_manifest_sha256": "cc3cd490fa64a8135e94a0f1a07248e99a57d2343550f9e51b3d6f12519c8097",
+      "archive_sha256": "33f21e40e5fa3d1e5e9aaca802c6a89517aed80e1b5cf93acf6233c505c3d17d"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "05",
+      "source_records": 18,
+      "inventory_entries": 14,
+      "original_file_locations_rehashed": 27,
+      "pdf_manifest_sha256": "243532ea8e5d9af3c637fcd48a61bb2d580f9974e98c982b5dfdf9f454e3a94f",
+      "archive_sha256": "9d7b3f40e46b61e3dd73f2ff94e0a084a6f1d16c069d61755f317f8b04a56d44"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "06",
+      "source_records": 20,
+      "inventory_entries": 17,
+      "original_file_locations_rehashed": 32,
+      "pdf_manifest_sha256": "ae3fca05637dcd2c5ee9d9ddf148c9e1086f57bb9bc06f118e1992c23472e082",
+      "archive_sha256": "d56b067391f94797a9aa7ae14e9a961f1d5c16bcc195cce19db39abf53293ed0"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "07",
+      "source_records": 24,
+      "inventory_entries": 17,
+      "original_file_locations_rehashed": 29,
+      "pdf_manifest_sha256": "1f5474a0d890a1c2da297cc01266644ef6f930385c771c31ce3e06de847758ad",
+      "archive_sha256": "d33f6d95788102bf606535890d8db6e26eae1b159d25091f05b8cbc34676a21d"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "08",
+      "source_records": 16,
+      "inventory_entries": 15,
+      "original_file_locations_rehashed": 24,
+      "pdf_manifest_sha256": "bd9e75f9a88a130f00630c143c7eb111562067c143095587fe7e461976b9027e",
+      "archive_sha256": "0e3957754692ab04c527e866972f4920b0b4dece9d2a098bd03a4ce742832c15"
+    }
+  ],
+  "distinct_publisher_pdf_hashes_by_regulator": {
+    "IRDAI": 970,
+    "Gazette": 355
+  },
+  "shared_original_payloads_across_batches": [
+    {
+      "regulator": "IRDAI",
+      "sha256": "af332d60f48db37c4c65a984978105a465e88af8f3ea12a86bd2b13ec924817c",
+      "batches": [
+        "02",
+        "03"
+      ],
+      "source_ids": [
+        "807563",
+        "807576"
+      ]
+    }
+  ],
+  "shared_attachment_bytes_are_not_automatic_duplicate_instruments": true,
+  "current_force_or_legal_applicability_approved": false,
+  "full_tranche_complete": false
+}

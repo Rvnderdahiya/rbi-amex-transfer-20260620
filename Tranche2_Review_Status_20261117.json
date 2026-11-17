@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-17T12:02:56.157840+00:00",
-  "generated_at_ist": "2026-11-17T17:32:56.157840+05:30",
+  "generated_at_utc": "2026-11-17T12:36:15.853982+00:00",
+  "generated_at_ist": "2026-11-17T18:06:15.853982+05:30",
   "status": "IN PROGRESS - NOT A COMPLETE TRANCHE 2 HANDOVER",
   "complete_tranche_ready": false,
   "previously_shared_sources": [
@@ -22,28 +22,48 @@
     }
   ],
   "irdai": {
-    "nonoverlapping_source_records_delivered_across_all_batches": 873,
-    "inventory_entries_delivered_across_all_batches": 854,
-    "reviewed_batches_uploaded": 7,
+    "nonoverlapping_source_records_delivered_across_all_batches": 889,
+    "inventory_entries_delivered_across_all_batches": 869,
+    "reviewed_batches_uploaded": 8,
     "full_inventory_ready": false,
+    "source_record_delivery_partition": {
+      "uploaded_reviewed_source_records": 889,
+      "scope_retained_source_records_not_yet_released": 721,
+      "held_source_records_not_released": 3788,
+      "excluded_source_records_not_released": 335,
+      "nonexcluded_source_records_not_yet_released": 4509,
+      "units": "Captured source IDs, not missing PDFs or unique regulations"
+    },
+    "confirmed_cross_batch_representation_merges": 1,
+    "inventory_rows_after_this_confirmed_cross_batch_merge": 868,
+    "cross_batch_duplicate_evidence_sha256": "ab10a1a7f7726b834cf50e43d8dac460e56b774909b904b9a05ce02f40613219",
+    "final_cross_source_deduplication_complete": false,
     "captured_source_record_ids": 5733,
     "effective_source_scope_partition": {
-      "retained_under_source_rules": 1586,
+      "retained_under_source_rules": 1610,
       "excluded_by_source_rules": 335,
-      "held_for_review": 3812
+      "held_for_review": 3788
     },
     "effective_source_scope_counts": {
-      "Review required: document content check incomplete": 3811,
+      "Review required: document content check incomplete": 3787,
       "Excluded by supplied phrase": 335,
-      "Retained under supplied source rules": 1586,
+      "Retained under supplied source rules": 1610,
       "Review required: apply exclusion to individual documents within mixed archive": 1
     }
   },
   "gazette": {
-    "nonoverlapping_source_records_delivered_across_all_batches": 282,
-    "inventory_entries_delivered_across_all_batches": 324,
-    "reviewed_batches_uploaded": 5,
+    "nonoverlapping_source_records_delivered_across_all_batches": 354,
+    "inventory_entries_delivered_across_all_batches": 398,
+    "reviewed_batches_uploaded": 6,
     "full_inventory_ready": false,
+    "source_record_delivery_partition": {
+      "uploaded_reviewed_source_records": 354,
+      "scope_retained_source_records_not_yet_released": 11292,
+      "held_source_records_not_released": 1308,
+      "excluded_source_records_not_released": 5907,
+      "nonexcluded_source_records_not_yet_released": 12600,
+      "units": "Captured source IDs, not missing PDFs or unique regulations"
+    },
     "canonical_source_notice_rows": 18861,
     "effective_source_scope_partition": {
       "retained_under_source_rules": 11646,
@@ -51,7 +71,7 @@
       "held_for_review": 1308
     },
     "effective_source_scope_counts": {
-      "Retained under supplied source rules": 11344,
+      "Retained under supplied source rules": 11374,
       "Excluded by supplied department/office rule": 4665,
       "Retained: individually resolved single-instrument Gazette bundle": 27,
       "Retained: individually resolved multi-instrument Gazette bundle": 6,
@@ -65,7 +85,7 @@
       "Excluded: no MHA inclusion keyword in completely visually reviewed original": 878,
       "Excluded: no MHA inclusion keyword in fully read document": 300,
       "Review required: MHA full document keyword check incomplete": 1248,
-      "Retained: MHA keyword matched after department check": 264,
+      "Retained: MHA keyword matched after department check": 234,
       "Excluded: individually reviewed bundle has no requested ministry notice": 1,
       "Excluded: all in-scope notices fail supplied rules in individually read mixed-ministry bundle": 3,
       "Excluded: no MHA inclusion keyword in individually read Gazette bundle": 4,
@@ -166,6 +186,18 @@
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     },
     {
+      "regulator": "Gazette",
+      "batch": "06",
+      "source_records": 72,
+      "inventory_entries": 74,
+      "unique_original_pdfs": 72,
+      "physical_pdf_pages": 150,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_06_Interim",
+      "commit": "8eea33e8607af72710865f3efe01ae73e0877bc2",
+      "archive_sha256": "d1fd764113691173a62ccf9ffe471577053a28eb4cd7081973c7afad240cc9a4",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
       "regulator": "IRDAI",
       "batch": "03",
       "source_records": 10,
@@ -224,19 +256,37 @@
       "commit": "6497d3122b278dc509013556eb7505cab30f2ee7",
       "archive_sha256": "d33f6d95788102bf606535890d8db6e26eae1b159d25091f05b8cbc34676a21d",
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "08",
+      "source_records": 16,
+      "inventory_entries": 15,
+      "unique_original_pdfs": 24,
+      "physical_pdf_pages": 37,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_08_Interim",
+      "commit": "071b4285d82a33336199c9cd70c13f8ce0f84589",
+      "archive_sha256": "0e3957754692ab04c527e866972f4920b0b4dece9d2a098bd03a4ce742832c15",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     }
   ],
-  "latest_verified_remote_commit": "11c5ec3d6cc08eae3c3ddac6be717bbbb9f0ffb4",
-  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_05_Interim",
-  "source_overlay_sha256": "67dcfd2f7247427a2053a5d4343d240671d7e6576df80c30bfb4d037bee08679",
+  "latest_verified_remote_commit": "8eea33e8607af72710865f3efe01ae73e0877bc2",
+  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_06_Interim",
+  "source_overlay_sha256": "28ac6d187207d572fe34aaba03eebcb9f157e73d213c5b43c11e2baf3c48a558",
   "scope_clarification": {
     "affected_source_records_including_official_labels": 28,
     "additional_exclusions": 0,
-    "reason": "All 28 were already excluded by another confirmed phrase; no second subtraction."
+    "reason": "All 28 title/label matches were already excluded by another confirmed phrase; no second subtraction.",
+    "supplemental_available_content_probe": {
+      "evidence_sha256": "d0a004e8395941381ad8d0978ce0d9f8e219aaf7db0e318c1dc64cec9ede1001",
+      "candidate_source_records_in_saved_text_and_titles": 32,
+      "candidate_source_ids_not_already_excluded": [],
+      "available_text_probe_is_not_a_negative_visual_clearance": true
+    }
   },
   "count_units": {
     "source_records": "Distinct captured catalogue IDs, including preserved duplicate representations.",
-    "inventory_entries": "Released reviewed instruments/announcements after confirmed representation merges and explicit multi-notice splits.",
+    "inventory_entries": "Rows delivered in interim workbooks after within-batch merges and notice splits. Confirmed cross-batch row adjustments are reported separately. Not a unique-law count.",
     "original_pdfs": "Byte-distinct publisher PDF files in that package, including retained language/version originals.",
     "applicability": "Preliminary document-specific assessment, not current-force or final legal approval."
   },

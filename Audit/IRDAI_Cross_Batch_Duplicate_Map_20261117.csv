@@ -1,0 +1,2 @@
+﻿Title,Issue Date,Keep Batch,Keep Source ID,Keep Inventory Row,Duplicate Batch,Duplicate Source ID,Duplicate Inventory Row,Treatment,Evidence SHA-256
+Working Group on IRDA Investment Regulations,2006-06-30,IRDAI 02,807563,42,IRDAI 03,807576,12,Keep IRDAI Batch 02 Inventory row 42 (807563) once when combining batches. Do not add Batch 03 Inventory row 12 (807576) a second time. Preserve both source IDs and all original PDF versions in traceability.,ab10a1a7f7726b834cf50e43d8dac460e56b774909b904b9a05ce02f40613219

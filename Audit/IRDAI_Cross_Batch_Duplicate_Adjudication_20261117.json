@@ -1,0 +1,49 @@
+{
+  "adjudicated_utc": "2026-11-17T12:35:05.427875+00:00",
+  "regulator": "IRDAI",
+  "kind": "Confirmed cross-batch duplicate catalogue representation",
+  "title": "Working Group on IRDA Investment Regulations",
+  "issue_date": "2006-06-30",
+  "canonical_entry": {
+    "batch": "02",
+    "source_id": "807563",
+    "worksheet": "Inventory",
+    "excel_row": 42,
+    "workbook_sha256": "3eb416e386dc60dc257e94ecaf1e479c9b74bf206d98f3b63682cc689742a8f8",
+    "workbook_input_sha256": "2b42d6f79ec3323d98cef5f554dd3fc6f473299a874914dd53826eee0c498f3f"
+  },
+  "duplicate_entry": {
+    "batch": "03",
+    "source_id": "807576",
+    "worksheet": "Inventory",
+    "excel_row": 12,
+    "workbook_sha256": "3b2049ac973438e0b6837664952328b7621842896291a5045a9c612bb1946d44",
+    "workbook_input_sha256": "e18df554d0b4057a13d208313b4bcd011e8ed7b423f75fd3bf3b6c367d4a2777"
+  },
+  "complete_page_images_identical": true,
+  "originals": [
+    {
+      "attachment_id": "IRDAI_6686adb44b2f",
+      "sha256": "c53bd12436ac42ab64e0368617487d939ae5fcf6128f09009133d776961b9acc",
+      "pages": 1,
+      "original_url": "https://irdai.gov.in/documents/37343/1120222/Working+Group+on+IRDA+Investment+Regulations%2C+Jun+2006.pdf/a31985a4-2a99-62b5-ace5-c291ca00e704?version=2.1&t=1662752779671&download=true",
+      "page_image_sha256": "af823ab79664a3c523fc649fd9acbee8167568d5c024e9c4b4f924933d1b8f60"
+    },
+    {
+      "attachment_id": "IRDAI_0f3fe587dc19",
+      "sha256": "af332d60f48db37c4c65a984978105a465e88af8f3ea12a86bd2b13ec924817c",
+      "pages": 1,
+      "original_url": "https://irdai.gov.in/documents/37343/1082836/Working+Group+on+IRDA+Investment+Regulations%2C+Jun+2006+Attachment-1.pdf/e5e9cc63-f772-bedc-8ec2-3d3e6ab37d47?version=2.0&t=1640589849537&download=true",
+      "page_image_sha256": "af823ab79664a3c523fc649fd9acbee8167568d5c024e9c4b4f924933d1b8f60"
+    }
+  ],
+  "supporting_finding_sha256": "5da8a25b13356a9e15ff60d0a676462392bd22a79a19b2ffad4635b32fb0ab02",
+  "parent_visual_observation": "The complete one-page notice was read. It forms an IRDA investment-regulation review group chaired by C R Muralidharan and lists eight members. The own dateline is 30/06/2006, the reference field is blank/--, and the same Member closing appears in both full-page image versions. This is one announcement, not two instruments or a bank-wide direction.",
+  "treatment": "Keep IRDAI Batch 02 Inventory row 42 (807563) once when combining batches. Do not add Batch 03 Inventory row 12 (807576) a second time. Preserve both source IDs and all original PDF versions in traceability.",
+  "inventory_row_reduction_when_combining": 1,
+  "captured_source_record_reduction": 0,
+  "originals_deleted": false,
+  "previously_uploaded_archives_rewritten": false,
+  "full_deduplication_complete": false,
+  "legal_or_current_force_approval": false
+}
