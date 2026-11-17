@@ -7,11 +7,55 @@ packages will be added to this same branch after validation.
 | Source | Folder | Uploaded Status |
 | --- | --- | --- |
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
-| IRDAI | `IRDAI_Review_Batch_01_Interim/` | Interim review batch uploaded; full IRDAI inventory remains in progress |
+| IRDAI Batch 01 | [Open package folder](IRDAI_Review_Batch_01_Interim/) | 163 source-reviewed inventory entries; interim subset |
+| IRDAI Batch 02 | [Open package folder](IRDAI_Review_Batch_02_Interim/) | 625 additional source-reviewed inventory entries; interim subset |
+| IRDAI Batch 03 | [Open package folder](IRDAI_Review_Batch_03_Interim/) | 9 inventory entries from 10 additional source records; 16 distinct original PDFs |
+| IRDAI Batch 04 | [Open package folder](IRDAI_Review_Batch_04_Interim/) | 9 inventory entries from 13 additional source records; 17 distinct original PDFs |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
-| Gazette of India | `Gazette/` | Package not yet uploaded |
+| Gazette of India Batch 01 | [Open package folder](Gazette_Review_Batch_01_Interim/) | 41 reviewed single-notice entries; 41 original PDFs; interim subset |
+
+## Review Checkpoint - 17 November 2026
+
+The full Tranche 2 handover is **not complete**. The uploaded IRDAI batches
+cover 811 nonoverlapping source records in 806 inventory entries. Five confirmed
+duplicate catalogue representations were merged in Batches 03 and 04, with every
+source occurrence and original PDF retained in their audit manifests. These
+counts are not a count of unique laws or a current-force approval.
+
+IRDAI's 5,733 captured source records currently reconcile to 1,507 retained under
+the supplied collection rules, 335 excluded, 3,890 requiring further content
+review, and one mixed archive requiring individual treatment. Source-rule
+retention does not mean the seven fields or legal applicability are complete.
+The earlier source snapshot is preserved; 25 content holds were cleared through
+separately hash-bound complete-page reviews. Missing content and ambiguous dates
+remain held rather than guessed.
+
+Gazette's 18,861 canonical source notice rows reconcile to 11,653 retained under
+source rules, 5,902 excluded and 1,306 held. Only the 41 individually completed
+single-notice reviews are supplied in this first Gazette workbook. The remaining
+metadata, held content reviews and six unresolved publisher-original targets
+are not represented as completed. Retained notices and PDF files are different
+counting units.
+
+## Download the Additional Reviewed Batches
+
+For IRDAI Batches 03 and 04 and Gazette Batch 01, open the corresponding folder
+above and download its ZIP. Use Windows **Extract All** to a short folder and
+open the workbook inside it. Keep `Originals` and `Audit` alongside the workbook.
+Each document title opens its local PDF; the website field opens the official
+source. No Git, Python, multipart joining or setup program is required for
+these three ordinary ZIPs. Their archives contain no screenshot substitutes.
+
+Each new ZIP passed member CRC and SHA-256 checks, Windows extraction, native
+Excel checks before and after extraction, and full payload download/hash
+verification from GitHub. Original PDF bytes were not repaired or rewritten.
+Publisher reader warnings are disclosed in the enclosed audit files.
+
+Batch 02 is larger: follow its folder's download instructions and supplied
+setup to assemble its independent ordinary ZIP packages. Do not discard
+Batches 01 or 02; the later inventory entries are additional, not replacements.
 
 ## Download CKYCR
 
