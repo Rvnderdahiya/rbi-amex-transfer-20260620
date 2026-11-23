@@ -1,0 +1,23 @@
+{
+  "prepared_utc": "2026-11-23T06:01:50.616518+00:00",
+  "regulator": "UIDAI",
+  "input_published_rows": 100,
+  "consolidated_rows": 100,
+  "duplicate_rows_mapped": 0,
+  "distinct_publisher_pdf_payloads": 108,
+  "physical_pdf_pages": 1063,
+  "metadata_correction_events_applied": 12,
+  "source_packages": [
+    {
+      "Package": "UIDAI",
+      "Workbook SHA-256": "be5be41d9cc8092f1c74920672b0886e372703136e7edd45db3548edccc73a2f",
+      "Published Inventory Rows": 100
+    }
+  ],
+  "review_required_version_rows": 4,
+  "all_originals_and_variants_preserved": true,
+  "duplicate_map_sha256": "b412d9d0bbf4601c10783243d5c5bc83d60f54c590849bbbc94514365859c11d",
+  "correction_results_sha256": "bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783",
+  "complete_regulator_handover": false,
+  "originals_rewritten": false
+}

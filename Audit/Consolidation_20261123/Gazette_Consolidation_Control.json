@@ -1,0 +1,73 @@
+{
+  "prepared_utc": "2026-11-23T06:01:47.462164+00:00",
+  "regulator": "Gazette",
+  "input_published_rows": 630,
+  "consolidated_rows": 630,
+  "duplicate_rows_mapped": 0,
+  "distinct_publisher_pdf_payloads": 575,
+  "physical_pdf_pages": 1437,
+  "metadata_correction_events_applied": 0,
+  "source_packages": [
+    {
+      "Package": "Gazette_Review_Batch_01",
+      "Workbook SHA-256": "bd8da60e2bd5ded6733128cb010aafd00e0a0f20e0e90b2f71ab18e07232b878",
+      "Published Inventory Rows": 41
+    },
+    {
+      "Package": "Gazette_Review_Batch_02",
+      "Workbook SHA-256": "6e6ce24c0adc1e487a24984ba1145aa041bd7f30b379dde8f93327c2cc5466b8",
+      "Published Inventory Rows": 33
+    },
+    {
+      "Package": "Gazette_Review_Batch_03",
+      "Workbook SHA-256": "64ace22e4c7df766055b86fa1f3956a563f81e27a6ddb14b4f4740e5cf3aa5b7",
+      "Published Inventory Rows": 85
+    },
+    {
+      "Package": "Gazette_Review_Batch_04",
+      "Workbook SHA-256": "0944cae7ba76ce6fb8554b9e03206cb1cbb91aa0c3c20fda6067d497cedaf0a3",
+      "Published Inventory Rows": 77
+    },
+    {
+      "Package": "Gazette_Review_Batch_05",
+      "Workbook SHA-256": "95997eadf5e36a8d2e2b371151cbd5400682cb54a712a5dc6bffef546324267a",
+      "Published Inventory Rows": 88
+    },
+    {
+      "Package": "Gazette_Review_Batch_06",
+      "Workbook SHA-256": "71f1d83220fcc321c5939c713ffe098bd4c9843d2a9f9dfd22b1f0951ddf70f9",
+      "Published Inventory Rows": 74
+    },
+    {
+      "Package": "Gazette_Review_Batch_07",
+      "Workbook SHA-256": "e4c3e563cea08f6f8c4b3878134931c098cc5b5f46ee521c290d815da00a2407",
+      "Published Inventory Rows": 80
+    },
+    {
+      "Package": "Gazette_Review_Batch_08",
+      "Workbook SHA-256": "36c5f7c23f882cc76dab456bed24b74e2201811d4f60cca1f20f88a327d62cd0",
+      "Published Inventory Rows": 21
+    },
+    {
+      "Package": "Gazette_Review_Batch_09",
+      "Workbook SHA-256": "1e266cfb192d1e1e2c4dfdaa5ee5ff7e77e7b6ddcdbbd65c01d316ddc8df899f",
+      "Published Inventory Rows": 51
+    },
+    {
+      "Package": "Gazette_Review_Batch_10",
+      "Workbook SHA-256": "6abcc11b852ea44e5c66d079719e7f073fc78646eb8be8307b684851612128bb",
+      "Published Inventory Rows": 28
+    },
+    {
+      "Package": "Gazette_Review_Batch_11",
+      "Workbook SHA-256": "6a472ad2b3a505c92ce92810c0ae63499af7cd12bfd4cc4863831c3abaae0017",
+      "Published Inventory Rows": 52
+    }
+  ],
+  "review_required_version_rows": 0,
+  "all_originals_and_variants_preserved": true,
+  "duplicate_map_sha256": "b412d9d0bbf4601c10783243d5c5bc83d60f54c590849bbbc94514365859c11d",
+  "correction_results_sha256": "bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783",
+  "complete_regulator_handover": false,
+  "originals_rewritten": false
+}

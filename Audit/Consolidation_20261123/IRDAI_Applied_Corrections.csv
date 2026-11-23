@@ -1,0 +1,14 @@
+﻿Finding,Consolidated Anchor,Field,Recommended Value,Reason,Evidence SHA-256
+TD01,IRDAI_Review_Batch_01:IRDAI Inventory!160,Date,2008-05-29,"Own body dateline 29th May, 2008; 02/06/2008 is the surrounding export/header date, not the order dateline.",bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD01,IRDAI_Review_Batch_01:IRDAI Inventory!160,Addressee,,Distinguish named subject Pegasus from absent formal To-line.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD02,IRDAI_Review_Batch_01:IRDAI Inventory!29,Addressee,,Named subject Religare is not a printed To-line.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD03,IRDAI_Review_Batch_01:IRDAI Inventory!152,Addressee,,Named subject SPT is not a printed recipient.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD04,IRDAI_Review_Batch_01:IRDAI Inventory!27,Addressee,,Separate Arcadia as named subject from absent To-line.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD06,IRDAI_Review_Batch_02:Inventory!86,Date,2010-03-18,"Clarification's own date, not the cited17March2010circular with same reference.",bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD08,IRDAI_Review_Batch_01:IRDAI Inventory!97,Addressee,,No To-line in either language; appointees are not recipients.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD13,IRDAI_Review_Batch_02:Inventory!55,Reference,064/IRDA/AGECNY/MAR2007,"Preserve AGECNY as actually printed, not a silently corrected AGENCY spelling.",bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD21,IRDAI_Review_Batch_02:Inventory!42,Reference,,Header prints --; no reference is supplied.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+TD21,IRDAI_Review_Batch_02:Inventory!42,Addressee,,"No To-line; group members are appointees, not inferred recipients.",bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+NT22,IRDAI_Review_Batch_02:Inventory!19,Document title,Special discount in lieu of agency commission/brokers remuneration and remuneration payable to direct insurance brokers and insurance agents,Marine Hull is clause4 of this same complete circular; row19wrapper is not a second instrument.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+RS23,IRDAI_Review_Batch_02:Inventory!76,Addressee,,"The three office-holders are appointees, not a printed To-line.",bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783
+RS23,IRDAI_Review_Batch_02:Inventory!76,Document title,Appointment of three additional members of the Insurance Advisory Committee,Normalise wrappers to the actual one-notification appointment subject; no second notice.,bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783

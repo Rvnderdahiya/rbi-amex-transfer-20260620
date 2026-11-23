@@ -1,0 +1,606 @@
+{
+  "UIDAI:Inventory!54": [
+    {
+      "issue_id": "TD18-01",
+      "status": "review_required",
+      "issue": "Hindi2025 DDG schedule right-hand promotion/deputation text and column7 selection committee are clipped at the physical right page edge. All available page content was read; absent text was not.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            8
+          ]
+        }
+      ],
+      "required_action": "Obtain publisher-confirmed complete Hindi DDG schedule before releasing a complete consolidated-text representation.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-02",
+      "status": "review_required",
+      "issue": "Hindi2025 p1 first2021amendment citation prints21.1.2020/28.1.2021; English2025 p1 and Hindi internal footnotes use27.12.2021/28.12.2021. Preserve citation discrepancy.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            1,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            1
+          ]
+        }
+      ],
+      "required_action": "Annotate conflicting printed citation; publisher confirmation needed for corrected consolidation, not a guessed edit.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-03",
+      "status": "review_required",
+      "issue": "Reg11(2) Hindi says4DDG/2Director posts will be filled, versus English up to4/up to2 may be filled.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            6
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            7
+          ]
+        }
+      ],
+      "required_action": "Do not certify bilingual legal equivalence; verify intended modality and limits.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-04",
+      "status": "review_required",
+      "issue": "PrivateSecretary selection committee Hindi names two DeputyDirectors/DeputyDirectorsTechnology, English two Directors/DirectorsTechnology.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "required_action": "Preserve language-specific wording and seek intended committee wording.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-05",
+      "status": "review_required",
+      "issue": "ADOfficialLanguage level7/SeniorTranslationOfficer deputation route: Hindi3years versus English4years, in both original2020 and updated2025 texts.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            23
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            18
+          ]
+        },
+        {
+          "original_index": 35,
+          "original_sha256": "50ce4f92f0fb7d4c908587561eb62502c487c3de35065d9663101cf580fe8121",
+          "pages": [
+            17,
+            32
+          ]
+        }
+      ],
+      "required_action": "Retain unresolved bilingual eligibility discrepancy; do not harmonise by inference.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-06",
+      "status": "review_required",
+      "issue": "Driver working knowledge: Hindi AND English versus English Hindi OR English, also present in original2020Gazette.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            27
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            20
+          ]
+        },
+        {
+          "original_index": 35,
+          "original_sha256": "50ce4f92f0fb7d4c908587561eb62502c487c3de35065d9663101cf580fe8121",
+          "pages": [
+            19,
+            33
+          ]
+        }
+      ],
+      "required_action": "Retain language-specific eligibility discrepancy; no equivalence certification.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    }
+  ],
+  "UIDAI:Inventory!97": [
+    {
+      "issue_id": "TD18-01",
+      "status": "review_required",
+      "issue": "Hindi2025 DDG schedule right-hand promotion/deputation text and column7 selection committee are clipped at the physical right page edge. All available page content was read; absent text was not.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            8
+          ]
+        }
+      ],
+      "required_action": "Obtain publisher-confirmed complete Hindi DDG schedule before releasing a complete consolidated-text representation.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-02",
+      "status": "review_required",
+      "issue": "Hindi2025 p1 first2021amendment citation prints21.1.2020/28.1.2021; English2025 p1 and Hindi internal footnotes use27.12.2021/28.12.2021. Preserve citation discrepancy.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            1,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            1
+          ]
+        }
+      ],
+      "required_action": "Annotate conflicting printed citation; publisher confirmation needed for corrected consolidation, not a guessed edit.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-03",
+      "status": "review_required",
+      "issue": "Reg11(2) Hindi says4DDG/2Director posts will be filled, versus English up to4/up to2 may be filled.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            6
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            7
+          ]
+        }
+      ],
+      "required_action": "Do not certify bilingual legal equivalence; verify intended modality and limits.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-04",
+      "status": "review_required",
+      "issue": "PrivateSecretary selection committee Hindi names two DeputyDirectors/DeputyDirectorsTechnology, English two Directors/DirectorsTechnology.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "required_action": "Preserve language-specific wording and seek intended committee wording.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-05",
+      "status": "review_required",
+      "issue": "ADOfficialLanguage level7/SeniorTranslationOfficer deputation route: Hindi3years versus English4years, in both original2020 and updated2025 texts.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            23
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            18
+          ]
+        },
+        {
+          "original_index": 35,
+          "original_sha256": "50ce4f92f0fb7d4c908587561eb62502c487c3de35065d9663101cf580fe8121",
+          "pages": [
+            17,
+            32
+          ]
+        }
+      ],
+      "required_action": "Retain unresolved bilingual eligibility discrepancy; do not harmonise by inference.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD18-06",
+      "status": "review_required",
+      "issue": "Driver working knowledge: Hindi AND English versus English Hindi OR English, also present in original2020Gazette.",
+      "evidence": [
+        {
+          "original_index": 34,
+          "original_sha256": "d24743803a1856e0ab8759bd12940ba0f86654d064d26dfa0d80d8cb1cf9fc39",
+          "pages": [
+            27
+          ]
+        },
+        {
+          "original_index": 33,
+          "original_sha256": "8d88a2a54f49a168cf550027d995a7ba295e4893085df8b15060af49ce4921b7",
+          "pages": [
+            20
+          ]
+        },
+        {
+          "original_index": 35,
+          "original_sha256": "50ce4f92f0fb7d4c908587561eb62502c487c3de35065d9663101cf580fe8121",
+          "pages": [
+            19,
+            33
+          ]
+        }
+      ],
+      "required_action": "Retain language-specific eligibility discrepancy; no equivalence certification.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    }
+  ],
+  "UIDAI:Inventory!53": [
+    {
+      "issue_id": "TD19-01",
+      "status": "review_required",
+      "issue": "Hindi2025 reg30(4) still refers to annexed FormI, but complete32page file ends without FormI. Original2020 Gazette and English2024 consolidation include complete forms. SecondSchedule omission is separately explicit and intentional, not a missing enclosure.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            7,
+            32
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            33
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            28,
+            53
+          ]
+        }
+      ],
+      "required_action": "Obtain publisher-confirmed complete Hindi FormI or explicit explanation before treating this consolidation as complete; do not silently fill from a differently dated version.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-02",
+      "status": "review_required",
+      "issue": "Hindi2025 p1 reverses the base issue/publication dates in its citation. Original2020 own notification is21January, publication22January.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            1
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            1,
+            29
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            1
+          ]
+        }
+      ],
+      "required_action": "Annotate citation error separately; retain2020-01-21 as base own issue date and separate update dates.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-03",
+      "status": "review_required",
+      "issue": "Reg53Explanation1 Hindi includes fully secured liabilities, English excludes them. Difference is present in both originalGazette and consolidations.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            14
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            14
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            12,
+            39
+          ]
+        }
+      ],
+      "required_action": "Do not certify bilingual substantive equivalence or silently repair the threshold.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-04",
+      "status": "review_required",
+      "issue": "Reg61(9)(i) proviso Hindi has negative not recorded until, English prints shall be recorded unless without not; originalGazette already has the difference.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            19,
+            45
+          ]
+        }
+      ],
+      "required_action": "Keep printed language difference unresolved; no guessed negative insertion.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-05",
+      "status": "review_required",
+      "issue": "English2024 reg61(8)(q) has a broken splice and loses the opening successor-Inquiry-Officer clause. Original2020 English p44 is complete. This is a substantive source-quality defect, not assumed harmless reflow or deliberate amendment.",
+      "evidence": [
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            44
+          ]
+        }
+      ],
+      "required_action": "Obtain intended complete English consolidated provision before a complete-text release.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    }
+  ],
+  "UIDAI:Inventory!98": [
+    {
+      "issue_id": "TD19-01",
+      "status": "review_required",
+      "issue": "Hindi2025 reg30(4) still refers to annexed FormI, but complete32page file ends without FormI. Original2020 Gazette and English2024 consolidation include complete forms. SecondSchedule omission is separately explicit and intentional, not a missing enclosure.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            7,
+            32
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            33
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            28,
+            53
+          ]
+        }
+      ],
+      "required_action": "Obtain publisher-confirmed complete Hindi FormI or explicit explanation before treating this consolidation as complete; do not silently fill from a differently dated version.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-02",
+      "status": "review_required",
+      "issue": "Hindi2025 p1 reverses the base issue/publication dates in its citation. Original2020 own notification is21January, publication22January.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            1
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            1,
+            29
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            1
+          ]
+        }
+      ],
+      "required_action": "Annotate citation error separately; retain2020-01-21 as base own issue date and separate update dates.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-03",
+      "status": "review_required",
+      "issue": "Reg53Explanation1 Hindi includes fully secured liabilities, English excludes them. Difference is present in both originalGazette and consolidations.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            14
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            14
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            12,
+            39
+          ]
+        }
+      ],
+      "required_action": "Do not certify bilingual substantive equivalence or silently repair the threshold.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-04",
+      "status": "review_required",
+      "issue": "Reg61(9)(i) proviso Hindi has negative not recorded until, English prints shall be recorded unless without not; originalGazette already has the difference.",
+      "evidence": [
+        {
+          "original_index": 37,
+          "original_sha256": "94275bd9057ca10fc0cf2d6ca21a6c037508f27ec3e6234fc9f1e9cab68cbfc6",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            19,
+            45
+          ]
+        }
+      ],
+      "required_action": "Keep printed language difference unresolved; no guessed negative insertion.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    },
+    {
+      "issue_id": "TD19-05",
+      "status": "review_required",
+      "issue": "English2024 reg61(8)(q) has a broken splice and loses the opening successor-Inquiry-Officer clause. Original2020 English p44 is complete. This is a substantive source-quality defect, not assumed harmless reflow or deliberate amendment.",
+      "evidence": [
+        {
+          "original_index": 36,
+          "original_sha256": "adf28a4b9a8e98ff85f39ffec8c5091d531127427ef45509d7c60d44cadcc82e",
+          "pages": [
+            22
+          ]
+        },
+        {
+          "original_index": 38,
+          "original_sha256": "c987e5b25241f8e16c5c86e85c7af71a713e768253c15f0ea5c59bc959a22c3c",
+          "pages": [
+            44
+          ]
+        }
+      ],
+      "required_action": "Obtain intended complete English consolidated provision before a complete-text release.",
+      "duplicate_decision_effect": "Do not merge whole entries; retain distinct versions and source defects explicitly."
+    }
+  ]
+}

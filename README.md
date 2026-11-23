@@ -4,6 +4,63 @@ This branch contains the transfer packages for the Tranche 2 inventory exercise.
 It is separate from the previous RBI/KMT delivery branches. Future source
 packages will be added to this same branch after validation.
 
+## Latest Consolidated Copies
+
+Use these copies for the reviewed material in Batches 01-11. They replace
+manual joining of those old workbooks. They are not additional regulations
+and do not include later incremental batches.
+
+| Source | Reviewed Rows | Download |
+| --- | ---: | --- |
+| IRDAI, Batches 01-11 consolidated | 904 | [Workbook, 1,060 original PDF payloads and audit](IRDAI_Consolidated_Review_20261123/) |
+| Gazette, Batches 01-11 consolidated | 630 | [Workbook, 575 original PDFs and audit](Gazette_Consolidated_Review_20261123/) |
+| UIDAI, corrected review copy | 100 | [Workbook, 108 instrument PDFs, provenance and audit](UIDAI_Consolidated_Review_20261123/) |
+| Gazette Batch 12, additional material | 113 | [Additional workbook and 108 originals](Gazette_Review_Batch_12_Interim/) |
+| IRDAI Batch 12, additional material | 19 | [Additional workbook and 28 originals](IRDAI_Review_Batch_12_Interim/) |
+
+The reviewed material is therefore 923 IRDAI entries (904 consolidated plus
+19 additional) and 743 Gazette entries (630 consolidated plus 113 additional).
+These are delivered review entries, not final unique-law or active-law totals.
+
+Download all ZIPs and the extraction files in the selected consolidated folder.
+Double-click `EXTRACT_INVENTORY.bat`. It creates the reviewed folder beside
+the downloaded files and verifies the ZIPs and every extracted file. The script
+uses built-in Windows/.NET functions, needs no Python or Git, makes no network
+requests and does not change system policy. If company policy blocks scripts,
+extract every ordinary ZIP to the same short destination using Windows Extract
+All. Do not download the entire historical repository ZIP.
+
+The IRDAI consolidated copy applies **26 confirmed repeated-row mappings** to
+930 earlier delivered rows, leaving 904. The latest independent recheck found
+four more repeated rows than the older 22-row register. All source occurrences
+and PDF versions remain mapped. Use the
+[applied 26-row map](Audit/Consolidation_20261123/IRDAI_Applied_Duplicate_Map.csv)
+and each package's `Audit/Entry_Lineage.csv`, not the older register alone.
+Adjudication row locators refer to the specifically identified input version;
+`Entry_Lineage.csv` gives the current consolidated workbook row.
+
+The reviewed metadata corrections are applied in the consolidated IRDAI and
+UIDAI copies and logged. Four UIDAI source-version rows retain explicit
+content/language holds. They have not been silently merged or marked cleared.
+
+Gazette Batch 12 adds 113 entries from 108 source IDs. One pair of catalogue
+representations is merged once, and six additional independently identified
+notices are split out of multi-notice PDFs. A further source repeating an
+earlier Batch 01 instrument adds no inventory row; its original byte variant
+and traceability are supplied in `Already_Represented_Originals.zip`.
+
+IRDAI Batch 12 adds 19 entries from 20 source IDs, merging one confirmed
+bilingual contact-notice pair. Two further source IDs repeat earlier instruments
+and add no inventory rows. Their three original PDF variants are supplied in
+the separate already-represented archive, with links back to the earlier entries.
+
+These are **reviewed subsets, not the completed Tranche 2 handover**. Remaining
+IRDAI and Gazette content/metadata reviews and publisher exceptions are still
+open. Source-rule retention, inventory rows, PDF files and unique regulations
+are different units. No universal duplicate-free, current-force or final legal
+applicability certification is asserted. Earlier archives are preserved below
+as historical versions, not alternatives to add again to the new copies.
+
 | Source | Folder | Uploaded Status |
 | --- | --- | --- |
 | CKYCR | `CKYCR/` | Collected-source review inventory and originals uploaded; supporting-reference exceptions disclosed |
@@ -34,7 +91,10 @@ packages will be added to this same branch after validation.
 | Gazette of India Batch 11 | [Open package folder](Gazette_Review_Batch_11_Interim/) | 52 inventory entries from 52 source records and 52 original PDFs |
 | Official TRAI alternatives | [Open supplementary folder](Gazette_Official_Alternatives/) | Two official issuer originals, 66 pages; supplied separately, not added to cleared inventory counts |
 
-## Review Checkpoint - 23 November 2026
+## Historical Checkpoint Through Batch 11
+
+This section records the earlier state before the consolidated corrections
+above. Use the latest copies and current status file for the revised position.
 
 The full Tranche 2 handover is **not complete**. The uploaded IRDAI batches
 cover 954 nonoverlapping source records in 930 inventory entries. Twenty-four confirmed

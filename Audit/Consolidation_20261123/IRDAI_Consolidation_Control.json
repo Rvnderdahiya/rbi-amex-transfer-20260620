@@ -1,0 +1,74 @@
+{
+  "prepared_utc": "2026-11-23T06:21:43.238926+00:00",
+  "regulator": "IRDAI",
+  "input_published_rows": 930,
+  "consolidated_rows": 904,
+  "duplicate_rows_mapped": 26,
+  "distinct_publisher_pdf_payloads": 1060,
+  "physical_pdf_pages": 1730,
+  "metadata_correction_events_applied": 13,
+  "source_packages": [
+    {
+      "Package": "IRDAI_Review_Batch_01",
+      "Workbook SHA-256": "cda5b1d575e17741007d63bc6bf02ebdba2dbd32682ea9db3539b7fa5f280908",
+      "Published Inventory Rows": 163
+    },
+    {
+      "Package": "IRDAI_Review_Batch_02",
+      "Workbook SHA-256": "3eb416e386dc60dc257e94ecaf1e479c9b74bf206d98f3b63682cc689742a8f8",
+      "Published Inventory Rows": 625
+    },
+    {
+      "Package": "IRDAI_Review_Batch_03",
+      "Workbook SHA-256": "3b2049ac973438e0b6837664952328b7621842896291a5045a9c612bb1946d44",
+      "Published Inventory Rows": 9
+    },
+    {
+      "Package": "IRDAI_Review_Batch_04",
+      "Workbook SHA-256": "106322e07de1d4d36b3cb67bb80681d750489849e3713561fa5207ab6ade96a8",
+      "Published Inventory Rows": 9
+    },
+    {
+      "Package": "IRDAI_Review_Batch_05",
+      "Workbook SHA-256": "e2cbfac7d6ea0e8a2d6a69b5ad7b0b71fabccd6acdcd3461c7a6ff0ef86c455d",
+      "Published Inventory Rows": 14
+    },
+    {
+      "Package": "IRDAI_Review_Batch_06",
+      "Workbook SHA-256": "7f5ccfbd285138e92c741464b4ddacb0fc242ecf9c098f11198d9d13243690b5",
+      "Published Inventory Rows": 17
+    },
+    {
+      "Package": "IRDAI_Review_Batch_07",
+      "Workbook SHA-256": "bd456c69bf64b69ac3cc028828eca681eee9cbaebc2048b891ace427002fce4f",
+      "Published Inventory Rows": 17
+    },
+    {
+      "Package": "IRDAI_Review_Batch_08",
+      "Workbook SHA-256": "b4fe51272ee1296fd84baafdcc1e1deb3b9473b8b181aecc3533e6b83eb57927",
+      "Published Inventory Rows": 15
+    },
+    {
+      "Package": "IRDAI_Review_Batch_09",
+      "Workbook SHA-256": "51b9ee1c07338bbe6313b5397c8c371e31451b16aa40d9764f43cae067769fdf",
+      "Published Inventory Rows": 21
+    },
+    {
+      "Package": "IRDAI_Review_Batch_10",
+      "Workbook SHA-256": "97eff9aff5c1283652bba5d95df20189e4ed8369a437d4aaaef13bc64b16bf92",
+      "Published Inventory Rows": 21
+    },
+    {
+      "Package": "IRDAI_Review_Batch_11",
+      "Workbook SHA-256": "496d78dbbb0e388a7a8e281f6e246a7384c9dab37b6bcc10add6b5241f18911d",
+      "Published Inventory Rows": 19
+    }
+  ],
+  "review_required_version_rows": 0,
+  "all_originals_and_variants_preserved": true,
+  "duplicate_map_sha256": "b412d9d0bbf4601c10783243d5c5bc83d60f54c590849bbbc94514365859c11d",
+  "correction_results_sha256": "bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783",
+  "additional_duplicate_recheck_sha256": "a87c942e5f678714504255d649d5ea43743e8fe221962290f567261692893cc7",
+  "complete_regulator_handover": false,
+  "originals_rewritten": false
+}
