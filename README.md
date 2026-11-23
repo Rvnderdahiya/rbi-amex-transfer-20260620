@@ -15,6 +15,8 @@ packages will be added to this same branch after validation.
 | IRDAI Batch 06 | [Open package folder](IRDAI_Review_Batch_06_Interim/) | 17 inventory entries from 20 additional source records; 32 original PDFs |
 | IRDAI Batch 07 | [Open package folder](IRDAI_Review_Batch_07_Interim/) | 17 inventory entries from 24 additional source records; 29 original PDFs |
 | IRDAI Batch 08 | [Open package folder](IRDAI_Review_Batch_08_Interim/) | 15 inventory entries from 16 additional source records; 24 original PDFs |
+| IRDAI Batch 09 | [Open package folder](IRDAI_Review_Batch_09_Interim/) | 21 inventory entries from 21 additional source records; 29 original PDFs |
+| IRDAI Batch 10 | [Open package folder](IRDAI_Review_Batch_10_Interim/) | 21 inventory entries from 24 additional source records; 34 original PDFs |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
@@ -24,32 +26,35 @@ packages will be added to this same branch after validation.
 | Gazette of India Batch 04 | [Open package folder](Gazette_Review_Batch_04_Interim/) | 77 inventory entries from 72 source records and 72 original PDFs |
 | Gazette of India Batch 05 | [Open package folder](Gazette_Review_Batch_05_Interim/) | 88 inventory entries from 80 source records and 81 original PDFs |
 | Gazette of India Batch 06 | [Open package folder](Gazette_Review_Batch_06_Interim/) | 74 inventory entries from 72 source records and 72 original PDFs |
+| Gazette of India Batch 07 | [Open package folder](Gazette_Review_Batch_07_Interim/) | 80 inventory entries from 73 source records and 74 original PDFs |
+| Gazette of India Batch 08 | [Open package folder](Gazette_Review_Batch_08_Interim/) | 21 inventory entries from 21 source records and 21 original PDFs |
+| Gazette of India Batch 09 | [Open package folder](Gazette_Review_Batch_09_Interim/) | 51 inventory entries from 48 source records and 48 original PDFs |
 
-## Review Checkpoint - 17 November 2026
+## Review Checkpoint - 23 November 2026
 
 The full Tranche 2 handover is **not complete**. The uploaded IRDAI batches
-cover 889 nonoverlapping source records in 869 inventory entries. Twenty confirmed
-duplicate catalogue representations were merged in Batches 03 through 08, with every
+cover 934 nonoverlapping source records in 911 inventory entries. Twenty-three confirmed
+duplicate catalogue representations were merged in Batches 03 through 10, with every
 source occurrence and original PDF retained in their audit manifests. These
 counts are not a count of unique laws or a current-force approval.
 
 The complete-file recheck also confirmed one older cross-batch duplicate:
 "Working Group on IRDA Investment Regulations", dated 30 June 2006. When combining
 the interim workbooks, keep Batch 02 Inventory row 42 (source 807563) and do not
-count Batch 03 Inventory row 12 (source 807576) again. The 869 delivered rows
-therefore become 868 after this confirmed cross-batch adjustment. Both source
+count Batch 03 Inventory row 12 (source 807576) again. The 911 delivered rows
+therefore become 910 after this confirmed cross-batch adjustment. Both source
 IDs and all original versions remain preserved. See the
 [duplicate map](Audit/IRDAI_Cross_Batch_Duplicate_Map_20261117.csv) and
 [bound adjudication](Audit/IRDAI_Cross_Batch_Duplicate_Adjudication_20261117.json).
-The final cross-source deduplication is still in progress; 868 is not represented
+The final cross-source deduplication is still in progress; 910 is not represented
 as a certified unique-law total.
 
-IRDAI's 5,733 captured source records currently reconcile to 1,610 retained under
-the supplied collection rules, 335 excluded, 3,787 requiring further content
+IRDAI's 5,733 captured source records currently reconcile to 1,669 retained under
+the supplied collection rules, 335 excluded, 3,728 requiring further content
 review, and one mixed archive requiring individual treatment. Source-rule
 retention does not mean the seven fields or legal applicability are complete.
-The earlier source snapshot is preserved; 128 content holds were cleared through
-separately hash-bound complete-page reviews. Missing content and ambiguous dates
+The earlier source snapshot is preserved. Separately hash-bound complete-page
+reviews support the updated counts. Missing content and ambiguous dates
 remain held rather than guessed.
 
 The newly confirmed Insurance Institute of India trainee wording was checked in
@@ -61,9 +66,9 @@ publisher bodies identified 32 candidate source records, including body-only
 candidates. All 32 were already excluded; none is in a published inventory.
 Extraction negatives are not claimed to clear unreadable or missing content.
 
-Gazette's 18,861 canonical source notice rows reconcile to 11,646 retained under
-source rules, 5,907 excluded and 1,308 held. The six uploaded Gazette batches
-contain 398 inventory entries from 354 nonoverlapping source records. Multiple
+Gazette's 18,861 canonical source notice rows reconcile to 11,644 retained under
+source rules, 5,907 excluded and 1,310 held. The nine uploaded Gazette batches
+contain 550 inventory entries from 496 nonoverlapping source records. Multiple
 independently numbered notices in a PDF have separate rows; bilingual versions
 of one notice do not. The remaining
 metadata, held content reviews and six unresolved publisher-original targets
@@ -79,7 +84,23 @@ Batch 06 preserves two distinct 6 May 1999 Government Stock auction notices
 despite their common Ministry file reference. Their stock rates, maturity years
 and amounts differ. Shared references alone are not used to merge notices.
 
-Not yet released: 4,509 non-excluded IRDAI source IDs and 12,600 non-excluded
+Batch 07 likewise keeps two individually headed TDSAT membership-cessation
+notices separate despite a shared file reference. It also supplies the original
+HNLC tribunal notice and its separate official Hindi-name corrigendum without
+rewriting either PDF or substituting the correction date for the original date.
+
+Batches 08 and 09 split one reviewed source set into disjoint, independently
+extractable ZIPs below 25 MiB. There is no multipart reassembly requirement.
+Their audit files describe the shared review set, while each inventory and PDF
+manifest identifies only that package's released records. Do not add repeated
+audit-review observations as if they were additional inventory rows.
+
+Two additional TRAI catalogue targets, NOTAVAILABLE(7010) and NOTAVAILABLE(8139),
+served unrelated ECI and Parliamentary Affairs originals. The intended TRAI
+records remain held for correct-original recovery, not excluded because of the
+wrong file. These are distinct from the six unresolved download targets above.
+
+Not yet released: 4,464 non-excluded IRDAI source IDs and 12,458 non-excluded
 Gazette source IDs. These are records still requiring inventory completion or
 review, not counts of missing PDFs. The machine-readable review status accounts
 separately for uploaded, pending, held and excluded source records.
