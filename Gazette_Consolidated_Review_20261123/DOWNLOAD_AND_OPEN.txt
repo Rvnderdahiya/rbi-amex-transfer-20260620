@@ -1,0 +1,7 @@
+Gazette Consolidated Review Inventory
+
+Download every ZIP, Transfer_Manifest.json, Extract_Inventory.ps1 and EXTRACT_INVENTORY.bat into one short folder.
+Double-click EXTRACT_INVENTORY.bat. It verifies all ZIP hashes, extracts locally and verifies every delivered file. No network access, Python, Git or administrator rights are needed.
+If PowerShell is blocked by company policy, do not bypass the policy. Use Windows Extract All on each ZIP to the SAME short destination. Each ZIP is an ordinary independent archive.
+Open Gazette_Reviewed/Gazette_Reviewed_Inventory.xlsx. Keep Originals and Audit beside the workbook. The document title opens the local PDF; Website opens the official source.
+This supersedes manual joining of the named previous batches, not the unreviewed source universe. Do not add it to the old batch totals. Known exceptions remain flagged.
