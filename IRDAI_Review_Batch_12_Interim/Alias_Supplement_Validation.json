@@ -1,0 +1,12 @@
+{
+  "archive_file": "Already_Represented_Originals.zip",
+  "archive_sha256": "741fb2a85a82bfe7758ef3643897a2a8b5802d9259f937648d3851396edb0a20",
+  "archive_bytes": 440406,
+  "all_member_crc_and_sha256_verified": true,
+  "alias_original_pdfs": 3,
+  "physical_pdf_pages_independently_rendered": 5,
+  "new_inventory_rows": 0,
+  "source_review_sha256": "383b01849d348cd1d6954be5cc20ed6f3024ed19add8db20180eafd103f2a830",
+  "full_tranche_complete": false,
+  "windows_extracted_member_hashes_verified": 4
+}
