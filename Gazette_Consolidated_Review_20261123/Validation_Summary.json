@@ -1,0 +1,60 @@
+{
+  "validated_at_utc": "2026-11-23T06:11:36.723191+00:00",
+  "regulator": "Gazette",
+  "inventory_rows": 630,
+  "input_published_rows": 630,
+  "confirmed_duplicate_rows_mapped": 0,
+  "instrument_pdf_payloads": 575,
+  "all_pdf_payloads_including_provenance": 575,
+  "physical_pdf_pages_rendered": 1437,
+  "reader_warnings": 0,
+  "all_originals_unchanged": true,
+  "payload_file_count": 582,
+  "transfer_manifest_sha256": "52b583fccd5a2bb0f24917944512b424199120b1617efbb663e05545236c5847",
+  "packages": [
+    {
+      "file": "Gazette_Reviewed_01.zip",
+      "bytes": 21293259,
+      "sha256": "b1da56e5ff0aad97e005d449b31101a259f0bc88e867ca335d3bf83bf4dff445",
+      "members": 64,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "Gazette_Reviewed_02.zip",
+      "bytes": 18645331,
+      "sha256": "9beca92d7d46dd8394c7cd63dda1a6a5628e69ede6ed8ba61ab1def4005705e8",
+      "members": 86,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "Gazette_Reviewed_03.zip",
+      "bytes": 21095165,
+      "sha256": "f075aab19898bc05660638d53d68518f1c8eddaab2dcc936b89248235e068ca5",
+      "members": 117,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "Gazette_Reviewed_04.zip",
+      "bytes": 20658154,
+      "sha256": "6306710f6546f882ea640780ea93532fc6336ff16fef0205ed0c42c58ea9727b",
+      "members": 117,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "Gazette_Reviewed_05.zip",
+      "bytes": 20016982,
+      "sha256": "d240e1e4920fdaa1fa2a0b979d6677c83f75df3623e6b80c9fbdd1f81298bd77",
+      "members": 95,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "Gazette_Reviewed_06.zip",
+      "bytes": 15371101,
+      "sha256": "9c5d941af3740e37fdf45bbaef3395482132b545e937d00891836bd894300c89",
+      "members": 103,
+      "all_member_crc_and_sha256_verified": true
+    }
+  ],
+  "full_tranche_complete": false,
+  "duplicate_free_legal_certification": false
+}
