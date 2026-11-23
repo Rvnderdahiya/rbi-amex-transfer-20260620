@@ -1,0 +1,274 @@
+{
+  "generated_utc": "2026-11-23T04:38:19.794909+00:00",
+  "recovery_review_sha256": "eab5771d12d88229a3deaecceb5a4827944272e9a60dcfb6b0b7cedf4b3e316e",
+  "source_snapshot_sha256": "a4aa1416a68615a6b426b5c2da8eb81eaa6931224d57276ff2e64965a3651c9f",
+  "status": "Official issuer alternatives supplied separately; Gazette canonical holds remain open",
+  "verified_official_alternatives": 2,
+  "original_pdf_pages": 66,
+  "canonical_holds_cleared": 0,
+  "records": [
+    {
+      "source_document_id": "NOTAVAILABLE(102732)",
+      "recovery_status": "unresolved",
+      "reason": "A complete official historical Gazette candidate was recovered and reviewed, but its own 26 September 1970 date does not establish the intended 26 September 2022 catalogue source. Canonical identity/date hold remains.",
+      "specific_remaining_holds": [
+        "Intended source identity unresolved: 1970 Gazette original versus listed 2022 issue year.",
+        "Do not replace/redate the modern catalogue source without parent identity reconciliation."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(154618)",
+      "recovery_status": "unresolved",
+      "reason": "Exact Gazette path returned HTTP 404 twice. Official parliamentary tabled-paper descriptions identify a possible G.S.R.69(E) dated 10 February 2010, but are cross-reference leads, not the notification itself.",
+      "specific_remaining_holds": [
+        "Original instrument/complete appointment and appellate-assignment conditions not acquired or read.",
+        "Do not infer issuing Office or scope exclusion from CBEC in the title/enacting body. Published Office heading still requires the original."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(18168)",
+      "recovery_status": "unresolved",
+      "reason": "Exact Gazette path returned HTTP 404 twice. Separately evidenced official Cochin Customs PDF timed out twice before any HTTP response/bytes. Search excerpt suggests a specific notification but is not an acquired/read original.",
+      "specific_remaining_holds": [
+        "No complete intended-original PDF acquired. Notification 79/2010-Customs is a lead, not an accepted identity/ref/date.",
+        "Any duty table, rates, origin/exporter conditions or other substantive components cannot be certified from a search excerpt."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(22887)",
+      "recovery_status": "unresolved",
+      "reason": "Exact published saved Gazette path returned HTTP 200 and application/pdf twice but zero bytes both times. No parseable original; no other auction/re-issue accepted as a substitute.",
+      "specific_remaining_holds": [
+        "Empty response is not recovered PDF. Own issue date, auction terms/operative dependencies, reference and complete content cannot be verified."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(39698)",
+      "recovery_status": "unresolved",
+      "reason": "Exact published saved Gazette path returned HTTP 404 twice. Bounded official search did not identify another verified intended-original link. Generic section-25 title is not enough to substitute a similar customs notice.",
+      "specific_remaining_holds": [
+        "No original PDF bytes acquired; own date, issuing headings, reference, notice boundaries and complete operative content remain unverified."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(55844)",
+      "recovery_status": "unresolved",
+      "reason": "A complete official historical Gazette candidate was recovered and reviewed, but its own 12 May 1993 date does not establish the intended 12 February 2021 catalogue source. Canonical identity/date hold remains.",
+      "specific_remaining_holds": [
+        "Intended source identity unresolved: 12 May 1993 original versus listed 12 February 2021.",
+        "Historic 1991 election event and 1985 cited instrument are not own issue dates. Do not silently replace the intended modern source."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": null
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(7010)",
+      "recovery_status": "recovered_verified_official_alternative",
+      "reason": "Verified complete 12-page official TRAI original issuer alternative matches exact intended amendment title, number, own issue date and subject. Earlier one-page Gazette attachment is demonstrably unrelated. Alternative retained locally; canonical replacement and Gazette provenance approval remain with parent.",
+      "specific_remaining_holds": [
+        "Canonical source still points to a wrong-served Election Commission instrument; no canonical input changed.",
+        "Official alternative is issuer text marked for Gazette publication, not the target Gazette facsimile or proof of its publication/commencement date.",
+        "No final collection-release, current-force or legal approval is made."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": "Originals/T7010.pdf",
+      "original_sha256": "b3e7a76bc12626a55914cac53f42c5f0c15efcb64c2eff45e7a28051c960df85",
+      "pages": 12,
+      "official_url": "https://www.trai.gov.in/sites/default/files/2024-11/DTH_Amend_Regulation12mar09.pdf",
+      "metadata": {
+        "title": "THE DIRECT TO HOME BROADCASTING SERVICES (STANDARDS OF QUALITY OF SERVICE AND REDRESSAL OF GRIEVANCES) (AMENDMENT) REGULATIONS, 2009",
+        "title_basis": "Printed title",
+        "date_iso": "2009-03-12",
+        "date_as_printed": "New Delhi, the 12th March, 2009",
+        "date_evidence_pages": [
+          1
+        ],
+        "date_basis": "Own notification dateline, not file upload, listing, commencement, cited instrument or event date.",
+        "issuing_authority": "TELECOM REGULATORY AUTHORITY OF INDIA",
+        "nature": "Amendment Regulations / Notification",
+        "website_name": "Telecom Regulatory Authority of India (TRAI)",
+        "applicability_for_aebc": "Provider-facing obligations concern DTH broadcasting operators: CPE warranty repairs, package stability/notices and subscription suspension. AEBC India is not identified as a DTH operator by this document; no direct banking or corporate-agent mandate is evidenced. A subscriber role could have consumer relevance only. Preliminary role/content assessment, not current-force or legal approval.",
+        "addressee": "Not expressly stated in original",
+        "addressee_basis": "No express To/addressee block in the complete reviewed instrument. Operative subjects, where identified, are not invented recipients.",
+        "reference": "No. 3 of 2009; F. No. 16-2/ 2009 - B&CS."
+      },
+      "identity_and_content_findings": [
+        {
+          "pages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "finding": "Exact intended 2009 amendment title, TRAI issuer, own 12 March 2009 dateline, No.3/2009 and F.No.16-2/2009-B&CS. Changes 2007 DTH QoS regulations. R.N.Choubey, Principal Advisor (B&CS), closes operative text on p4."
+        },
+        {
+          "pages": [
+            2,
+            3,
+            4
+          ],
+          "finding": "New 4A addresses no-charge repairs/visits during warranty for outright-purchased CPE; 9A package protection for six months or longer prepaid contract with reduction/substitution safeguards; 9B gives 15-day notice; regulation 10 suspension distinguishes whole calendar months up to three months and discretionary part-month suspension."
+        },
+        {
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "finding": "Complete annexed explanatory memorandum includes consultation, stakeholder comments and reasons on CPE warranty, package changes and subscription suspension. No promised substantive annexure/list absent. The parent 2007 regulations and cited 2004 jurisdiction notifications are amendment context, not falsely described as enclosed."
+        },
+        {
+          "pages": [
+            1
+          ],
+          "finding": "Original issuer PDF is marked TO BE PUBLISHED IN THE GAZETTE OF INDIA, Part III Section 4. It is a verified official issuer alternative, not a recovered Gazette masthead facsimile. Commencement by Official Gazette publication is distinct from own issue date."
+        }
+      ],
+      "http_status": 200,
+      "content_type": "application/pdf"
+    },
+    {
+      "source_document_id": "NOTAVAILABLE(8139)",
+      "recovery_status": "recovered_verified_official_alternative",
+      "reason": "Verified complete 54-page official TRAI Main Regulation original issuer alternative matches exact intended title, No.7/2009, own 20 March 2009 date and reference. Earlier one-page Gazette attachment is unrelated. Alternative retained locally; canonical replacement and date-role reconciliation remain with parent.",
+      "specific_remaining_holds": [
+        "Canonical source still points to a wrong-served Parliamentary Affairs instrument; no canonical input changed.",
+        "Official alternative is issuer text marked for Gazette publication, not the target Gazette facsimile.",
+        "Own issue 20 March 2009 is supported; listing 23 March 2009 is preserved separately. Exact Gazette publication date is not independently established by this downloaded issuer PDF.",
+        "No final collection-release, current-force or legal approval is made."
+      ],
+      "canonical_hold_cleared": false,
+      "local_original": "Originals/T8139.pdf",
+      "original_sha256": "4c8ec715e0fd682080d3c6c3a2e5e5eac9d3737d166d575cadebdc9723691779",
+      "pages": 54,
+      "official_url": "https://www.trai.gov.in/sites/default/files/2024-09/201211091141353328813Regulation20mar09%20(1).pdf",
+      "metadata": {
+        "title": "THE STANDARDS OF QUALITY OF SERVICE OF BASIC TELEPHONE SERVICE (WIRELINE) AND CELLULAR MOBILE TELEPHONE SERVICE REGULATIONS, 2009",
+        "title_basis": "Printed title",
+        "date_iso": "2009-03-20",
+        "date_as_printed": "NEW DELHI, THE 20th MARCH, 2009",
+        "date_evidence_pages": [
+          1
+        ],
+        "date_basis": "Own notification dateline, not file upload, listing, commencement, cited instrument or event date.",
+        "issuing_authority": "TELECOM REGULATORY AUTHORITY OF INDIA",
+        "nature": "Regulations / Notification",
+        "website_name": "Telecom Regulatory Authority of India (TRAI)",
+        "applicability_for_aebc": "Applies expressly to providers of basic telephone, unified access and cellular mobile services, including BSNL/MTNL; it regulates network and customer-service QoS, records and reporting. AEBC India is not evidenced as a licensed telecom service provider here. Its possible enterprise-subscriber interest is indirect, not a direct bank/corporate-agent compliance mandate. Preliminary role/content assessment only.",
+        "addressee": "Not expressly stated in original",
+        "addressee_basis": "No express To/addressee block in the complete reviewed instrument. Operative subjects, where identified, are not invented recipients.",
+        "reference": "(7 OF 2009); F. No. 305-25/2008-QoS"
+      },
+      "identity_and_content_findings": [
+        {
+          "pages": [
+            1
+          ],
+          "finding": "Exact intended title and 2009 regulation No.7, TRAI issuer, F.No.305-25/2008-QoS and own date 20 March 2009. Current official Main Regulation row is dated 20/03/2009. Listing date 23 March 2009 is preserved separately and not adopted as own date; commencement 1 July 2009 is also not own date."
+        },
+        {
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "finding": "Complete regulations include definitions/licensed-provider scope, wireline and mobile network/customer benchmarks, coverage tests, consumer surveys, recordkeeping, reports, publication, review and interpretation. R.K.Arnold, Secretary, signs on p13. Repeal of 2005 QoS regulations with savings is not a withdrawal of this 2009 instrument."
+        },
+        {
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "finding": "Complete memorandum background and consultation; provision/fault/repair measures, grade of service, CCR/ASR, billing and complaint methodology, closures, call-centre access, refunds and BTS availability. Historical consultations and prior directions are identified as context, not separate notices."
+        },
+        {
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "finding": "BTS downtime and force-majeure exclusion, CSSR/SDCCH/TCH congestion, dropped-call and worst-cell measures, voice quality, street/in-vehicle coverage, POI congestion, pre/postpaid billing and resolution/credit methodology all read, including formulas and stakeholder discussion."
+        },
+        {
+          "pages": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "finding": "Call-centre response, 7-day closure, deposit refund within 60 days with delay interest; customer perception dimensions and satisfaction scores; quarterly PMR/monthly POI reporting; no internal audit scheme then prescribed; authority audit/report powers; operator website publication; benchmarking and possible future financial-disincentive regulations. P54 completes the explanatory memorandum, not a missing continuation."
+        },
+        {
+          "pages": [
+            1,
+            13,
+            54
+          ],
+          "finding": "Original official issuer version marked TO BE PUBLISHED IN THE GAZETTE OF INDIA, not Gazette facsimile. No later 2012-2019 amendments or consolidated CA_20032009.pdf silently substituted. No promised substantive schedule/annexure absent in the acquired version."
+        }
+      ],
+      "http_status": 200,
+      "content_type": "application/pdf"
+    }
+  ],
+  "screenshots_supplied": false,
+  "current_force_or_legal_approval": false
+}

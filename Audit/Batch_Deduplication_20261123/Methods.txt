@@ -1,0 +1,25 @@
+Batch duplicate review - 23 November 2026
+
+Purpose
+Check repeated entries across the released Tranche 2 inventories without deleting original evidence or combining genuinely different notices.
+
+Scope
+The current screen covers 26 published packages: IRDAI Batches 01-11, Gazette Batches 01-11, CKYCR, CERSAI, UIDAI and FIU India. It checks 2,060 inventory rows and 2,068 distinct supplied PDF payloads. Complete rendered-page fingerprints cover 5,820 pages. These are screening totals, not unique-law, currently-active or AEBC-applicable counts.
+
+Checks performed
+1. Read the actual released workbook cells and document links. Bind workbook hashes to their retained validation evidence. Recheck original file hashes against manifests where supplied. Batch source IDs are checked for overlap separately from substantive document identity.
+2. Identify exact PDF bytes, complete available native-text matches, and matching titles/own issue dates. Notice-specific references are joined to their own title/date, not copied to every notice sharing a PDF. Numbers are not removed from text fingerprints.
+3. Compare complete rendered-page sequences, including scan-only PDFs. Exact page equality can identify byte-distinct copies, but a changed heading, rotation or scan quality can prevent a match. Text/raster matches are candidates, not automatic deletion instructions.
+4. Individually compare candidate original documents, their own issue dates, references, issuers, named subjects, operative content, signatures and notice boundaries. Different amendments, substantive versions and separately headed notices remain separate. Record missing/clipped content and bilingual discrepancies rather than silently choosing one version.
+
+How to use this register
+Duplicate_Map.csv identifies confirmed repeated inventory entries still present in the interim workbooks. When combining those workbooks, retain the Keep Entry once and do not count its Duplicate Entry again. Both source occurrences, URLs and all PDF versions remain preserved.
+
+Review_Items.csv records metadata corrections, distinct-version cases and unresolved publisher-content issues separately from duplicate decisions. It is not a list of documents to delete. A canonical entry is a stable consolidation anchor, not an assertion that its old metadata is superior.
+
+Adjudications.json contains the original/page hashes and the reasons for each decision. Complete page-proof images remain in the collection audit and are not included as screenshot substitutes for publisher PDFs.
+
+The new IRDAI Batch 11 also avoids adding two already-represented source occurrences as fresh inventory rows. The UAPA Nodal Officer source 817697 maps to the notice already supplied in Batch 10. The Controlled Fund source 818166 maps to the earlier Batch 02 instrument. Their additional versions remain preserved for consolidation. The MFL licence-cancellation representations 817710 and 817723 are combined within Batch 11 itself.
+
+Limits
+The full Tranche 2 collection/review is not complete. The register does not certify that all interim rows are unique regulations, currently in force or legally applicable to AEBC. It does not treat a repeated filename, common keyword, shared attachment, reference number or empty extracted text as proof of a duplicate. No source originals or previously published workbooks were rewritten by this duplicate review.

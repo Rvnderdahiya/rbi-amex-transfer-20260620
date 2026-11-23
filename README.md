@@ -17,6 +17,7 @@ packages will be added to this same branch after validation.
 | IRDAI Batch 08 | [Open package folder](IRDAI_Review_Batch_08_Interim/) | 15 inventory entries from 16 additional source records; 24 original PDFs |
 | IRDAI Batch 09 | [Open package folder](IRDAI_Review_Batch_09_Interim/) | 21 inventory entries from 21 additional source records; 29 original PDFs |
 | IRDAI Batch 10 | [Open package folder](IRDAI_Review_Batch_10_Interim/) | 21 inventory entries from 24 additional source records; 34 original PDFs |
+| IRDAI Batch 11 | [Open package folder](IRDAI_Review_Batch_11_Interim/) | 19 inventory entries from 20 additional source records; 25 original PDFs; already represented notices not added again |
 | CERSAI | `CERSAI/` | Collected-source review package uploaded; 95 retained entries, 67 exclusions; original excluded training video preserved in audit |
 | UIDAI | `UIDAI/` | Collected-source review package; 100 inventory entries and 108 instrument PDFs; missing referenced opinion disclosed |
 | FIU India | `FIU_India/` | Review package: 182 retained entries, 183 original PDFs and one XLS; one portal-only item disclosed |
@@ -29,28 +30,44 @@ packages will be added to this same branch after validation.
 | Gazette of India Batch 07 | [Open package folder](Gazette_Review_Batch_07_Interim/) | 80 inventory entries from 73 source records and 74 original PDFs |
 | Gazette of India Batch 08 | [Open package folder](Gazette_Review_Batch_08_Interim/) | 21 inventory entries from 21 source records and 21 original PDFs |
 | Gazette of India Batch 09 | [Open package folder](Gazette_Review_Batch_09_Interim/) | 51 inventory entries from 48 source records and 48 original PDFs |
+| Gazette of India Batch 10 | [Open package folder](Gazette_Review_Batch_10_Interim/) | 28 inventory entries from 25 source records and 25 original PDFs |
+| Gazette of India Batch 11 | [Open package folder](Gazette_Review_Batch_11_Interim/) | 52 inventory entries from 52 source records and 52 original PDFs |
+| Official TRAI alternatives | [Open supplementary folder](Gazette_Official_Alternatives/) | Two official issuer originals, 66 pages; supplied separately, not added to cleared inventory counts |
 
 ## Review Checkpoint - 23 November 2026
 
 The full Tranche 2 handover is **not complete**. The uploaded IRDAI batches
-cover 934 nonoverlapping source records in 911 inventory entries. Twenty-three confirmed
-duplicate catalogue representations were merged in Batches 03 through 10, with every
+cover 954 nonoverlapping source records in 930 inventory entries. Twenty-four confirmed
+duplicate catalogue representations were merged in Batches 03 through 11, with every
 source occurrence and original PDF retained in their audit manifests. These
 counts are not a count of unique laws or a current-force approval.
 
-The complete-file recheck also confirmed one older cross-batch duplicate:
-"Working Group on IRDA Investment Regulations", dated 30 June 2006. When combining
-the interim workbooks, keep Batch 02 Inventory row 42 (source 807563) and do not
-count Batch 03 Inventory row 12 (source 807576) again. The 911 delivered rows
-therefore become 910 after this confirmed cross-batch adjustment. Both source
-IDs and all original versions remain preserved. See the
-[duplicate map](Audit/IRDAI_Cross_Batch_Duplicate_Map_20261117.csv) and
-[bound adjudication](Audit/IRDAI_Cross_Batch_Duplicate_Adjudication_20261117.json).
-The final cross-source deduplication is still in progress; 910 is not represented
-as a certified unique-law total.
+The current all-batch check covers 26 published packages and 2,060 inventory
+rows, with text/byte checks on 2,068 distinct PDFs and complete rendered-page
+fingerprints for 5,820 pages. Individual candidate-document review confirmed
+22 repeated IRDAI inventory rows: 20 within older batches and two across
+batches. These repeats are still physically present in the interim workbooks.
+Use the [current keep/combine map](Audit/Batch_Deduplication_20261123/Duplicate_Map.csv)
+when consolidating; do not count a mapped duplicate row again. The 930 published
+IRDAI rows become 908 after these confirmed row adjustments only. This is not
+a certified unique-law or currently-applicable total. All original versions and
+source occurrences remain preserved.
 
-IRDAI's 5,733 captured source records currently reconcile to 1,669 retained under
-the supplied collection rules, 335 excluded, 3,728 requiring further content
+The same review records 19 metadata correction recommendations separately from
+duplicate decisions. Four UIDAI rows (Inventory rows 53, 54, 97 and 98) contain
+different substantive versions and 11 specific publisher-content issues,
+including clipping, missing material and bilingual/citation discrepancies.
+Do not automatically merge those entries or treat their consolidated texts as
+fully cleared. See the [review items](Audit/Batch_Deduplication_20261123/Review_Items.csv),
+[review summary](Audit/Batch_Deduplication_20261123/Review_Summary.json) and
+[source-bound adjudications](Audit/Batch_Deduplication_20261123/Adjudications.json).
+Previously uploaded archives were not silently rewritten. The earlier one-case
+working-group duplicate map is retained as historical evidence, not as the
+complete current duplicate register. Final consolidation and cross-source
+deduplication remain in progress.
+
+IRDAI's 5,733 captured source records currently reconcile to 1,697 retained under
+the supplied collection rules, 335 excluded, 3,700 requiring further content
 review, and one mixed archive requiring individual treatment. Source-rule
 retention does not mean the seven fields or legal applicability are complete.
 The earlier source snapshot is preserved. Separately hash-bound complete-page
@@ -67,8 +84,8 @@ candidates. All 32 were already excluded; none is in a published inventory.
 Extraction negatives are not claimed to clear unreadable or missing content.
 
 Gazette's 18,861 canonical source notice rows reconcile to 11,644 retained under
-source rules, 5,907 excluded and 1,310 held. The nine uploaded Gazette batches
-contain 550 inventory entries from 496 nonoverlapping source records. Multiple
+source rules, 5,907 excluded and 1,310 held. The eleven uploaded Gazette batches
+contain 630 inventory entries from 573 nonoverlapping source records. Multiple
 independently numbered notices in a PDF have separate rows; bilingual versions
 of one notice do not. The remaining
 metadata, held content reviews and six unresolved publisher-original targets
@@ -100,7 +117,22 @@ served unrelated ECI and Parliamentary Affairs originals. The intended TRAI
 records remain held for correct-original recovery, not excluded because of the
 wrong file. These are distinct from the six unresolved download targets above.
 
-Not yet released: 4,464 non-excluded IRDAI source IDs and 12,458 non-excluded
+The latest recovery attempt supplies the correct official TRAI issuer originals
+for targets 7010 and 8139 in the supplementary folder. They contain 12 and 54
+pages respectively and are marked for Gazette publication. They are not claimed
+to be recovered Gazette masthead facsimiles or evidence of current force. Their
+canonical Gazette holds remain open pending source-bound reconciliation. Six
+other targets remain unresolved, with HTTP failures or historical-date identity
+conflicts recorded; no universal claim of non-existence is made.
+
+Batch 11 of IRDAI does not add the UAPA Nodal Officer source 817697 again: the
+same notice is already represented by source 817684 in Batch 10. Source 818166,
+the Controlled Fund clarification, also matches an earlier Batch 02 instrument
+and was deferred from new inventory rows. Their source occurrences and original
+versions remain in the collection audit for consolidation. The MFL licence
+cancellation sources 817710 and 817723 are combined as one entry in Batch 11.
+
+Not yet released: 4,444 non-excluded IRDAI source IDs and 12,381 non-excluded
 Gazette source IDs. These are records still requiring inventory completion or
 review, not counts of missing PDFs. The machine-readable review status accounts
 separately for uploaded, pending, held and excluded source records.

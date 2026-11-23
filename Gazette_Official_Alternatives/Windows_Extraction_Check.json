@@ -1,0 +1,8 @@
+{
+  "status": "Passed Windows Expand-Archive and member hashes",
+  "archive_sha256": "3a17feb7a536b441311dbcdc011ed25c9451efd97995f6e1b80138f2cc8eff62",
+  "data_files_checked": 4,
+  "canonical_holds_cleared": 0,
+  "publisher_parser_warnings_observed": "Non-zero-indexed xref warnings occurred during strict-reader checks; original bytes unchanged and all66pages independently rendered.",
+  "checked_utc": "2026-11-23T04:39:40.0527897Z"
+}

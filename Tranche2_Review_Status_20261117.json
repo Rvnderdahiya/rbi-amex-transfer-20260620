@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-23T03:11:34.884482+00:00",
-  "generated_at_ist": "2026-11-23T08:41:34.884482+05:30",
+  "generated_at_utc": "2026-11-23T04:50:51.919090+00:00",
+  "generated_at_ist": "2026-11-23T10:20:51.919090+05:30",
   "status": "IN PROGRESS - NOT A COMPLETE TRANCHE 2 HANDOVER",
   "complete_tranche_ready": false,
   "previously_shared_sources": [
@@ -21,47 +21,62 @@
       "inventory_rows_previously_shared": 182
     }
   ],
+  "released_batch_deduplication_review": {
+    "evidence_sha256": "b2b3e6764cb867809c021f8eee72046c462564df9fbd861e14e64e65eb465b6e",
+    "published_packages_screened": 26,
+    "inventory_rows_screened": 2060,
+    "confirmed_repeated_rows_to_map": 22,
+    "metadata_correction_recommendations": 19,
+    "uidai_version_rows_requiring_review": 4,
+    "specific_uidai_content_holds": 11,
+    "duplicate_free_certification": false,
+    "published_workbooks_already_corrected": false,
+    "public_register": "Audit/Batch_Deduplication_20261123/"
+  },
   "irdai": {
-    "nonoverlapping_source_records_delivered_across_all_batches": 934,
-    "inventory_entries_delivered_across_all_batches": 911,
-    "reviewed_batches_uploaded": 10,
+    "nonoverlapping_source_records_delivered_across_all_batches": 954,
+    "inventory_entries_delivered_across_all_batches": 930,
+    "reviewed_batches_uploaded": 11,
     "full_inventory_ready": false,
     "source_record_delivery_partition": {
-      "uploaded_reviewed_source_records": 934,
-      "scope_retained_source_records_not_yet_released": 735,
-      "held_source_records_not_released": 3729,
+      "uploaded_reviewed_source_records": 954,
+      "scope_retained_source_records_not_yet_released": 743,
+      "held_source_records_not_released": 3701,
       "excluded_source_records_not_released": 335,
-      "nonexcluded_source_records_not_yet_released": 4464,
+      "nonexcluded_source_records_not_yet_released": 4444,
       "units": "Captured source IDs, not missing PDFs or unique regulations"
     },
     "confirmed_cross_batch_representation_merges": 1,
-    "inventory_rows_after_this_confirmed_cross_batch_merge": 910,
+    "inventory_rows_after_this_confirmed_cross_batch_merge": 929,
     "cross_batch_duplicate_evidence_sha256": "ab10a1a7f7726b834cf50e43d8dac460e56b774909b904b9a05ce02f40613219",
     "final_cross_source_deduplication_complete": false,
     "captured_source_record_ids": 5733,
     "effective_source_scope_partition": {
-      "retained_under_source_rules": 1669,
+      "retained_under_source_rules": 1697,
       "excluded_by_source_rules": 335,
-      "held_for_review": 3729
+      "held_for_review": 3701
     },
     "effective_source_scope_counts": {
-      "Review required: document content check incomplete": 3728,
+      "Review required: document content check incomplete": 3700,
       "Excluded by supplied phrase": 335,
-      "Retained under supplied source rules": 1669,
+      "Retained under supplied source rules": 1697,
       "Review required: apply exclusion to individual documents within mixed archive": 1
-    }
+    },
+    "confirmed_released_duplicate_rows_in_current_register": 22,
+    "inventory_rows_after_current_confirmed_row_map": 908,
+    "legacy_one_case_adjustment_is_not_current_complete_duplicate_map": true
   },
   "gazette": {
-    "nonoverlapping_source_records_delivered_across_all_batches": 496,
-    "inventory_entries_delivered_across_all_batches": 550,
-    "reviewed_batches_uploaded": 9,
+    "nonoverlapping_source_records_delivered_across_all_batches": 573,
+    "inventory_entries_delivered_across_all_batches": 630,
+    "reviewed_batches_uploaded": 11,
     "full_inventory_ready": false,
     "source_record_delivery_partition": {
-      "uploaded_reviewed_source_records": 496,
-      "scope_retained_source_records_not_yet_released": 11148,
+      "uploaded_reviewed_source_records": 573,
+      "scope_retained_source_records_not_yet_released": 11071,
       "held_source_records_not_released": 1310,
       "excluded_source_records_not_released": 5907,
-      "nonexcluded_source_records_not_yet_released": 12458,
+      "nonexcluded_source_records_not_yet_released": 12381,
       "units": "Captured source IDs, not missing PDFs or unique regulations"
     },
     "canonical_source_notice_rows": 18861,
@@ -71,7 +86,7 @@
       "held_for_review": 1310
     },
     "effective_source_scope_counts": {
-      "Retained under supplied source rules": 11432,
+      "Retained under supplied source rules": 11462,
       "Excluded by supplied department/office rule": 4665,
       "Retained: individually resolved single-instrument Gazette bundle": 27,
       "Retained: individually resolved multi-instrument Gazette bundle": 6,
@@ -85,7 +100,7 @@
       "Excluded: no MHA inclusion keyword in completely visually reviewed original": 878,
       "Excluded: no MHA inclusion keyword in fully read document": 300,
       "Review required: MHA full document keyword check incomplete": 1248,
-      "Retained: MHA keyword matched after department check": 174,
+      "Retained: MHA keyword matched after department check": 144,
       "Excluded: individually reviewed bundle has no requested ministry notice": 1,
       "Excluded: all in-scope notices fail supplied rules in individually read mixed-ministry bundle": 3,
       "Excluded: no MHA inclusion keyword in individually read Gazette bundle": 4,
@@ -118,7 +133,19 @@
         "review_result_sha256": "5d4e9d1bae1ffa83d3f81c6ba8aadef2bb4a1e29514c4d39565fb31715ed69b3",
         "reason": "Captured served PDF does not contain the intended catalogue instrument; recover and review the correct original."
       }
-    ]
+    ],
+    "official_issuer_alternatives_supplied_separately": {
+      "source_ids": [
+        "NOTAVAILABLE(7010)",
+        "NOTAVAILABLE(8139)"
+      ],
+      "original_pdfs": 2,
+      "pages": 66,
+      "canonical_holds_cleared": 0,
+      "added_to_cleared_inventory_counts": false,
+      "review_evidence_sha256": "eab5771d12d88229a3deaecceb5a4827944272e9a60dcfb6b0b7cedf4b3e316e",
+      "reason": "Correct official TRAI issuer texts recovered; Gazette facsimile/provenance reconciliation remains open. No legal/current-force approval."
+    }
   },
   "reviewed_release_registry": [
     {
@@ -259,6 +286,32 @@
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     },
     {
+      "regulator": "Gazette",
+      "batch": "10",
+      "package_date": "20261123",
+      "source_records": 25,
+      "inventory_entries": 28,
+      "unique_original_pdfs": 25,
+      "physical_pdf_pages": 60,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_10_Interim",
+      "commit": "09c94a792ad68dbd24097352f6b994f2fa9f109a",
+      "archive_sha256": "04bad97cbc75f9793a6dc8c30fc82954848b5def9eada03a4f142b8a2874cd9e",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "11",
+      "package_date": "20261123",
+      "source_records": 52,
+      "inventory_entries": 52,
+      "unique_original_pdfs": 52,
+      "physical_pdf_pages": 107,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_11_Interim",
+      "commit": "d0c9e26ffb5187b20066a1885ddc492f56754318",
+      "archive_sha256": "10d0c79db52410557c527c31f3da3168b24418eda938e8899ad4e5223ff7b643",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
       "regulator": "IRDAI",
       "batch": "03",
       "package_date": "20261117",
@@ -361,11 +414,24 @@
       "commit": "940262fcf79e31cb21c5c42c00eb9b3ca2f59340",
       "archive_sha256": "6c76bd15bc8ec84c24d4a44087a2763cb2a5a0272a7edfe7a646ba9bdd305240",
       "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "11",
+      "package_date": "20261123",
+      "source_records": 20,
+      "inventory_entries": 19,
+      "unique_original_pdfs": 25,
+      "physical_pdf_pages": 31,
+      "folder_url": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/IRDAI_Review_Batch_11_Interim",
+      "commit": "7c97606e547b4988bb9d3ce0d6185fb190684dfc",
+      "archive_sha256": "4f8d703664eaeb7ef3b49216c49756b0f79b93e2160d53bd7d3a606a100e986b",
+      "verification_basis": "Native Excel, Windows extraction, member hashes and complete GitHub download hashes"
     }
   ],
-  "latest_verified_remote_commit": "98cbe3d585cd3f9208a2cbfb6d725235b8bab66f",
-  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_09_Interim",
-  "source_overlay_sha256": "d4764f6c701e390d92f4786718744f2efb6f29eccd69e12cec2afa3fc29aa190",
+  "latest_verified_remote_commit": "d0c9e26ffb5187b20066a1885ddc492f56754318",
+  "latest_verified_remote_folder": "https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/tree/india-lrr-tranche2-20261106/Gazette_Review_Batch_11_Interim",
+  "source_overlay_sha256": "7f1714e68aa6809036ebf99158194385717b1ab1c689de53692e160d01edd8dc",
   "scope_clarification": {
     "affected_source_records_including_official_labels": 28,
     "additional_exclusions": 0,
@@ -388,6 +454,7 @@
     "Complete source-supported dates, addressees and preliminary AEBC reasons for unreleased IRDAI records; ambiguous dates remain held.",
     "Finish remaining Gazette original/notice reviews and department-first MHA keyword checks.",
     "Resolve or explicitly evidence source-description, bilingual-reference and publisher-original exceptions.",
-    "Reconcile final notice/record/PDF units, deduplication and exclusions before final regulator workbooks and full transfer."
+    "Reconcile final notice/record/PDF units, deduplication and exclusions before final regulator workbooks and full transfer.",
+    "Apply the documented metadata corrections and duplicate row map during consolidation; resolve UIDAI version/content exceptions before claiming complete source texts."
   ]
 }

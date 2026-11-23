@@ -1,7 +1,7 @@
 {
-  "checked_utc": "2026-11-23T03:11:02.153876+00:00",
-  "original_file_locations_rehashed": 1532,
-  "bytes_rehashed": 511975973,
+  "checked_utc": "2026-11-23T04:23:11.324812+00:00",
+  "original_file_locations_rehashed": 1634,
+  "bytes_rehashed": 546703304,
   "originals_modified": false,
   "release_checks": [
     {
@@ -104,6 +104,24 @@
       "archive_sha256": "89bc1ec7bd114903117b591d0cd59551a13e984c2ff3a6163de128220a7f63a8"
     },
     {
+      "regulator": "Gazette",
+      "batch": "10",
+      "source_records": 25,
+      "inventory_entries": 28,
+      "original_file_locations_rehashed": 25,
+      "pdf_manifest_sha256": "be0d8f4f69c143078d9e2b9446665d07ad9ca7a4ef89af7c2d7cbb52f1c0b3ad",
+      "archive_sha256": "04bad97cbc75f9793a6dc8c30fc82954848b5def9eada03a4f142b8a2874cd9e"
+    },
+    {
+      "regulator": "Gazette",
+      "batch": "11",
+      "source_records": 52,
+      "inventory_entries": 52,
+      "original_file_locations_rehashed": 52,
+      "pdf_manifest_sha256": "1a2c7b8d7521f2c81198ad61c7c75c1e0a48d1dcfcf5993eb9feb61d860463bb",
+      "archive_sha256": "10d0c79db52410557c527c31f3da3168b24418eda938e8899ad4e5223ff7b643"
+    },
+    {
       "regulator": "IRDAI",
       "batch": "03",
       "source_records": 10,
@@ -174,11 +192,20 @@
       "original_file_locations_rehashed": 34,
       "pdf_manifest_sha256": "0ee9bf918baab5205ada75a76c6ebdbec2c6e8d98b244a52394313d151d7b5aa",
       "archive_sha256": "6c76bd15bc8ec84c24d4a44087a2763cb2a5a0272a7edfe7a646ba9bdd305240"
+    },
+    {
+      "regulator": "IRDAI",
+      "batch": "11",
+      "source_records": 20,
+      "inventory_entries": 19,
+      "original_file_locations_rehashed": 25,
+      "pdf_manifest_sha256": "cb53b123f3bd88d56128fb8113165507bc45af7f70977d93b25578819010b00d",
+      "archive_sha256": "4f8d703664eaeb7ef3b49216c49756b0f79b93e2160d53bd7d3a606a100e986b"
     }
   ],
   "distinct_publisher_pdf_hashes_by_regulator": {
-    "IRDAI": 1033,
-    "Gazette": 498
+    "IRDAI": 1058,
+    "Gazette": 575
   },
   "shared_original_payloads_across_batches": [
     {

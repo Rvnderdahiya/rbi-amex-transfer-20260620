@@ -1,0 +1,49 @@
+{
+  "generated_utc": "2026-11-23T04:49:54.647160+00:00",
+  "status": "Released-batch duplicate and source-quality review; full Tranche 2 remains incomplete",
+  "published_packages_screened": 26,
+  "published_inventory_rows_screened": 2060,
+  "distinct_pdf_payloads_screened": 2068,
+  "physical_pdf_pages_fingerprinted": 5820,
+  "confirmed_repeated_released_inventory_rows": 22,
+  "confirmed_row_reductions_by_regulator": {
+    "IRDAI": 22
+  },
+  "confirmed_cross_batch_row_reductions": 2,
+  "confirmed_within_older_batch_row_reductions": 20,
+  "rows_if_only_this_confirmed_map_is_applied": 2038,
+  "irdai_rows_if_this_confirmed_map_is_applied": 908,
+  "certified_unique_law_count": null,
+  "duplicate_free_certification": false,
+  "distinct_uidai_version_groups_held": 2,
+  "uidai_released_rows_in_these_groups": 4,
+  "specific_uidai_content_holds": 11,
+  "metadata_correction_recommendations": 19,
+  "corrections_already_applied_to_published_workbooks": false,
+  "register_item_rows": 32,
+  "all_originals_preserved": true,
+  "published_workbooks_rewritten": false,
+  "new_inventory_rows_preflighted": 99,
+  "new_original_pdfs_supplied_in_review_batches": 102,
+  "new_source_records_supplied_in_review_batches": 97,
+  "new_package_counts": {
+    "IRDAI11": 19,
+    "Gazette10": 28,
+    "Gazette11": 52
+  },
+  "separate_official_trai_alternatives_not_in_inventory_counts": 2,
+  "published_rows_by_regulator": {
+    "IRDAI": 930,
+    "Gazette": 630,
+    "CKYCR": 123,
+    "CERSAI": 95,
+    "UIDAI": 100,
+    "FIU India": 182
+  },
+  "inventory_screen_sha256": "575c050a0e365049cd573b370c793c8984445ecb1f25d32fa3d8a541117593ea",
+  "render_screen_sha256": "f616b336be70033748835cb384306229de64a5b4a4bd276abbbc4ac1a2eb91df",
+  "individual_review_results_sha256": "bf8bdb4909cc8aabcebe227ccc663fa7fe6debb32bee6b15ffc0b0cdf09be783",
+  "parent_adjudications_sha256": "320e5010cb71f9a2590be355c1a9166385715fd5a199602b1b63be1795e056db",
+  "full_tranche_complete": false,
+  "current_force_or_final_legal_applicability_approved": false
+}
