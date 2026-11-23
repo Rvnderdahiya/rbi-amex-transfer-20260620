@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-11-23T06:16:13.330534+00:00",
+  "status": "Built-in Windows PowerShell extraction completed; every extracted file hash and native Excel cell/link checked",
+  "root_folder": "Gazette_Reviewed",
+  "data_files_verified": 582,
+  "transfer_manifest_sha256": "52b583fccd5a2bb0f24917944512b424199120b1617efbb663e05545236c5847",
+  "packages_verified": 6,
+  "machine_paths_omitted": true
+}
