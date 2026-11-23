@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-11-23T06:26:51.804524+00:00",
+  "status": "Built-in Windows PowerShell extraction completed; every extracted file hash and native Excel cell/link checked",
+  "root_folder": "IRDAI_Reviewed",
+  "data_files_verified": 1070,
+  "transfer_manifest_sha256": "90fcc587c3026ca60c1fed869e67d3163d7d33e6b540ace0fe59261df1f85b64",
+  "packages_verified": 19,
+  "machine_paths_omitted": true
+}
