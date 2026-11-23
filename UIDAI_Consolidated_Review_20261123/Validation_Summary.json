@@ -1,0 +1,53 @@
+{
+  "validated_at_utc": "2026-11-23T06:11:38.756534+00:00",
+  "regulator": "UIDAI",
+  "inventory_rows": 100,
+  "input_published_rows": 100,
+  "confirmed_duplicate_rows_mapped": 0,
+  "instrument_pdf_payloads": 108,
+  "all_pdf_payloads_including_provenance": 109,
+  "physical_pdf_pages_rendered": 1065,
+  "reader_warnings": 0,
+  "all_originals_unchanged": true,
+  "payload_file_count": 118,
+  "transfer_manifest_sha256": "65d3a9f13cf1b28bdc3ca29892dd383dec788ad0811907492506e7e620d3df91",
+  "packages": [
+    {
+      "file": "UIDAI_Reviewed_01.zip",
+      "bytes": 16753803,
+      "sha256": "d1a9edb05cd559823b7647758c65f4e1b11964a7339f6aa97e2dd4e667fd8b0f",
+      "members": 25,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "UIDAI_Reviewed_02.zip",
+      "bytes": 16642196,
+      "sha256": "768d69fa62699f3b9e51ad64d65e6d22ee73a906304758aebc141c77f4301225",
+      "members": 20,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "UIDAI_Reviewed_03.zip",
+      "bytes": 20868280,
+      "sha256": "538d3aa0a5ec81bcee27e300016120d355f976820d97d14cbee9fd48f1c2e899",
+      "members": 27,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "UIDAI_Reviewed_04.zip",
+      "bytes": 20908448,
+      "sha256": "e58521f5ac3379a8600e5408f94a151c825b6b4b256e12c39f4b02edac604dee",
+      "members": 28,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "UIDAI_Reviewed_05.zip",
+      "bytes": 8654292,
+      "sha256": "96eff4d8b63f60f70d21a35a8da65ecaedc03a38edf5403431d3e6b5115024d1",
+      "members": 18,
+      "all_member_crc_and_sha256_verified": true
+    }
+  ],
+  "full_tranche_complete": false,
+  "duplicate_free_legal_certification": false
+}
