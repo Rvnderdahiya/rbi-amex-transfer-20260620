@@ -1,5 +1,11 @@
 param([string]$Destination=$PSScriptRoot,[switch]$NoLaunch)
 $ErrorActionPreference='Stop'
+function Get-PackageHash([string]$Path){
+    $stream=[IO.File]::OpenRead($Path)
+    $digest=[Security.Cryptography.SHA256]::Create()
+    try{return ([BitConverter]::ToString($digest.ComputeHash($stream))).Replace('-','').ToLowerInvariant()}
+    finally{$digest.Dispose();$stream.Dispose()}
+}
 $manifest=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'Transfer_Manifest.json') -Raw -Encoding UTF8|ConvertFrom-Json
 if($manifest.root_folder -notmatch '^(IRDAI|Gazette|UIDAI)_Reviewed$'){throw 'Unexpected package root'}
 $parent=[IO.Path]::GetFullPath($Destination)
@@ -13,7 +19,7 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 foreach($package in $manifest.packages){
     if($package.file -notmatch '^(IRDAI|Gazette|UIDAI)_Reviewed_\d+\.zip$'){throw 'Unexpected archive name'}
     $zip=Join-Path $PSScriptRoot $package.file
-    if((Get-Item -LiteralPath $zip).Length -ne $package.bytes -or (Get-FileHash -LiteralPath $zip -Algorithm SHA256).Hash.ToLowerInvariant() -cne $package.sha256){throw ('Missing or changed ZIP: '+$package.file)}
+    if((Get-Item -LiteralPath $zip).Length -ne $package.bytes -or (Get-PackageHash $zip) -cne $package.sha256){throw ('Missing or changed ZIP: '+$package.file)}
     $archive=[IO.Compression.ZipFile]::OpenRead($zip)
     try{
         foreach($entry in $archive.Entries){
@@ -30,13 +36,13 @@ if($seen.Count -ne @($manifest.expected_payload_files.PSObject.Properties).Count
 New-Item -ItemType Directory -Path $stage|Out-Null
 foreach($package in $manifest.packages){
     Write-Host ('Extracting '+$package.file)
-    Expand-Archive -LiteralPath (Join-Path $PSScriptRoot $package.file) -DestinationPath $stage
+    [IO.Compression.ZipFile]::ExtractToDirectory((Join-Path $PSScriptRoot $package.file),$stage)
 }
 $root=[IO.Path]::GetFullPath((Join-Path $stage $manifest.root_folder))
 foreach($item in $manifest.expected_payload_files.PSObject.Properties){
     $file=[IO.Path]::GetFullPath((Join-Path $root $item.Name))
     if(-not $file.StartsWith($root+'\',[StringComparison]::OrdinalIgnoreCase) -or $file.Length -gt 245){throw 'Invalid or overlong extracted path'}
-    if((Get-Item -LiteralPath $file).Length -ne $item.Value.bytes -or (Get-FileHash -LiteralPath $file -Algorithm SHA256).Hash.ToLowerInvariant() -cne $item.Value.sha256){throw ('Extracted file differs: '+$item.Name)}
+    if((Get-Item -LiteralPath $file).Length -ne $item.Value.bytes -or (Get-PackageHash $file) -cne $item.Value.sha256){throw ('Extracted file differs: '+$item.Name)}
 }
 if((Split-Path -Parent $root) -cne $stage -or (Split-Path -Parent $target) -cne $parent -or (Test-Path -LiteralPath $target)){throw 'Destination changed during extraction. Validated staging files have been preserved.'}
 Move-Item -LiteralPath $root -Destination $target

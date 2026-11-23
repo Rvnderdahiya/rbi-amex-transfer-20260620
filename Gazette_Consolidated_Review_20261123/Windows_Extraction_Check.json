@@ -1,9 +1,11 @@
 {
-  "checked_utc": "2026-11-23T06:16:13.330534+00:00",
-  "status": "Built-in Windows PowerShell extraction completed; every extracted file hash and native Excel cell/link checked",
+  "checked_utc": "2026-11-23T06:23:17.843532+00:00",
+  "status": "PowerShell -NoProfile installer using built-in .NET ZIP and SHA-256 passed complete extraction and all payload hashes",
   "root_folder": "Gazette_Reviewed",
   "data_files_verified": 582,
   "transfer_manifest_sha256": "52b583fccd5a2bb0f24917944512b424199120b1617efbb663e05545236c5847",
   "packages_verified": 6,
-  "machine_paths_omitted": true
+  "machine_paths_omitted": true,
+  "installer_sha256": "59f14691b56b9212847910b8469462718bd5bb1c345eb6e775f41c77275692ed",
+  "inventory_zip_bytes_unchanged": true
 }
