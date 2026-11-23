@@ -1,0 +1,7 @@
+Download Gazette_Batch_09.zip and use Windows Extract All to a short folder.
+Open the inventory workbook inside the extracted folder. Keep Originals and Audit alongside it.
+The document name opens its first local PDF. Website name opens the official source URL.
+This reviewed subset contains 51 inventory entries and 48 distinct original PDF files.
+Read the enclosed README and Audit/PDF_Manifest.csv for source-record mapping, dates and review limits.
+The archive is a normal ZIP, not a Git LFS pointer or multipart archive. No Git, Python or setup program is required.
+This is an interim subset, not the complete regulator inventory or final Legal/Compliance approval.
