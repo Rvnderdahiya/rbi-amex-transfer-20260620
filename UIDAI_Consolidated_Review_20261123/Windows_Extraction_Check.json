@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-11-23T06:20:06.600536+00:00",
+  "status": "Built-in Windows PowerShell extraction completed; every extracted file hash and native Excel cell/link checked",
+  "root_folder": "UIDAI_Reviewed",
+  "data_files_verified": 118,
+  "transfer_manifest_sha256": "65d3a9f13cf1b28bdc3ca29892dd383dec788ad0811907492506e7e620d3df91",
+  "packages_verified": 5,
+  "machine_paths_omitted": true
+}
