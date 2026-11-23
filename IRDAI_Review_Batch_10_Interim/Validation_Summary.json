@@ -1,0 +1,18 @@
+{
+  "validated_at_utc": "2026-11-23T02:58:49.249376+00:00",
+  "status": "VALIDATED BOUNDED REVIEW BATCH ONLY",
+  "inventory_rows": 21,
+  "original_attachment_references": 37,
+  "unique_original_pdfs": 34,
+  "physical_pdf_pages_independently_rendered": 50,
+  "native_excel_cells_checked": 147,
+  "native_excel_links_checked": 42,
+  "reader_warnings": 12,
+  "originals_not_repaired_or_rewritten": true,
+  "archive_file": "IRDAI_Batch_10.zip",
+  "archive_bytes": 6613699,
+  "archive_sha256": "6c76bd15bc8ec84c24d4a44087a2763cb2a5a0272a7edfe7a646ba9bdd305240",
+  "archive_members_all_crc_and_sha256_checked": 45,
+  "screenshots_in_archive": false,
+  "full_tranche_complete": false
+}
