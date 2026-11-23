@@ -1,5 +1,18 @@
 # India Regulatory Inventory - Tranche 2
 
+## Latest Additions - Batch 13
+
+Download only these new ZIPs if you already have the earlier batches.
+Each contains one seven-column Excel workbook and its unchanged original PDFs. No audit files, JSON, scripts or screenshots are included.
+
+| Source | New Inventory Entries | Original PDFs | Download |
+| --- | ---: | ---: | --- |
+| Gazette Batch 13 | 139 | 133 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/5cef557de4016dd8d79c8f67528c70e481e8075e/Gazette_Review_Batch_13/Gazette_13.zip) |
+| IRDAI Batch 13 | 28 | 38 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/4f5402aec473dfeeb3ccc79e160e9b961e6a32ca/IRDAI_Review_Batch_13/IRDAI_13.zip) |
+
+Use Windows Extract All and keep the workbook beside `Originals`. The document name opens its local PDF; Website name opens the official source.
+These are additional reviewed subsets, not the completed Tranche 2 handover. Applicability remains preliminary.
+
 ## Download Excel And PDFs Only
 
 [Download India_LRR_Updates.zip](https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/releases/download/tranche2-team-update-20261123/India_LRR_Updates.zip)
@@ -10,7 +23,7 @@ downloaded (Gazette 01-02 and IRDAI 01-06) are not included. Extract All to a
 short folder and keep each workbook beside its `Originals` folder.
 
 The download contains no audit files, JSON, scripts or screenshots. It is the
-reviewed material completed to date, not the complete Tranche 2 handover.
+reviewed material through Batch 12, not the complete Tranche 2 handover.
 Use the named download above, not GitHub's automatic source-code ZIP.
 
 This branch contains the transfer packages for the Tranche 2 inventory exercise.
@@ -31,8 +44,9 @@ and do not include later incremental batches.
 | Gazette Batch 12, additional material | 113 | [Additional workbook and 108 originals](Gazette_Review_Batch_12_Interim/) |
 | IRDAI Batch 12, additional material | 19 | [Additional workbook and 28 originals](IRDAI_Review_Batch_12_Interim/) |
 
-The reviewed material is therefore 923 IRDAI entries (904 consolidated plus
-19 additional) and 743 Gazette entries (630 consolidated plus 113 additional).
+Through Batch 13, the reviewed material is 951 IRDAI entries (904 consolidated
+plus 19 in Batch 12 and 28 in Batch 13) and 882 Gazette entries
+(630 consolidated plus 113 in Batch 12 and 139 in Batch 13).
 These are delivered review entries, not final unique-law or active-law totals.
 
 Download all ZIPs and the extraction files in the selected consolidated folder.
