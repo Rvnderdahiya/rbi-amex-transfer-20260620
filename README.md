@@ -1,6 +1,21 @@
 # India Regulatory Inventory - Tranche 2
 
-## Latest Additions - Batches 13-14
+## Latest Reviewed Updates
+
+These are additional reviewed batches, not replacements for earlier downloads.
+Each ZIP contains only one seven-column Excel workbook and its unchanged original PDFs.
+
+| Source | New Inventory Entries | Original PDFs | Download |
+| --- | ---: | ---: | --- |
+| IRDAI Batch 14 | 55 | 74 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/6f205dec6a66294c15550613e1c320abe548d06c/IRDAI_Review_Batch_14/IRDAI_14.zip) |
+| Gazette Batch 15 | 125 | 110 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/7dfe328bcbf5601a2a0ceb48f4622afccd5f5ced/Gazette_Review_Batch_15/Gazette_15.zip) |
+
+Use Windows Extract All. Keep each workbook beside its `Originals` folder.
+Current reviewed inventory: 1,006 IRDAI entries through Batch 14 and 1,009 Gazette entries through Batch 15.
+These are review entries after confirmed repeat mappings, not certified unique or active-law totals.
+The complete Tranche 2 handover remains in progress. Applicability is preliminary; unresolved records are not marked cleared.
+
+## Earlier Updates - Batches 13-14
 
 Download only these new ZIPs if you already have the earlier batches.
 Each contains one seven-column Excel workbook and its unchanged original PDFs. No audit files, JSON, scripts or screenshots are included.
@@ -45,7 +60,7 @@ and do not include later incremental batches.
 | Gazette Batch 12, additional material | 113 | [Additional workbook and 108 originals](Gazette_Review_Batch_12_Interim/) |
 | IRDAI Batch 12, additional material | 19 | [Additional workbook and 28 originals](IRDAI_Review_Batch_12_Interim/) |
 
-The reviewed material is 951 IRDAI entries through Batch 13 (904 consolidated
+At the earlier checkpoint, the reviewed material was 951 IRDAI entries through Batch 13 (904 consolidated
 plus 19 in Batch 12 and 28 in Batch 13) and 884 Gazette entries through Batch 14
 (630 consolidated plus 113 in Batch 12, 139 in Batch 13 and 2 in Batch 14).
 These are delivered review entries, not final unique-law or active-law totals.
