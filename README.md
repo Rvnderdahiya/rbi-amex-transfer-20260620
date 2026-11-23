@@ -1,5 +1,18 @@
 # India Regulatory Inventory - Tranche 2
 
+## Download Excel And PDFs Only
+
+[Download India_LRR_Updates.zip](https://github.com/Rvnderdahiya/rbi-amex-transfer-20260620/releases/download/tranche2-team-update-20261123/India_LRR_Updates.zip)
+
+This one download contains **Gazette batches 03-12 and IRDAI batches 07-12**:
+16 seven-column Excel workbooks and 802 original PDFs. Batches already
+downloaded (Gazette 01-02 and IRDAI 01-06) are not included. Extract All to a
+short folder and keep each workbook beside its `Originals` folder.
+
+The download contains no audit files, JSON, scripts or screenshots. It is the
+reviewed material completed to date, not the complete Tranche 2 handover.
+Use the named download above, not GitHub's automatic source-code ZIP.
+
 This branch contains the transfer packages for the Tranche 2 inventory exercise.
 It is separate from the previous RBI/KMT delivery branches. Future source
 packages will be added to this same branch after validation.
