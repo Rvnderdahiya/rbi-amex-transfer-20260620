@@ -1,0 +1,151 @@
+{
+  "validated_at_utc": "2026-11-23T06:24:43.218820+00:00",
+  "regulator": "IRDAI",
+  "inventory_rows": 904,
+  "input_published_rows": 930,
+  "confirmed_duplicate_rows_mapped": 26,
+  "instrument_pdf_payloads": 1060,
+  "all_pdf_payloads_including_provenance": 1060,
+  "physical_pdf_pages_rendered": 1730,
+  "reader_warnings": 0,
+  "all_originals_unchanged": true,
+  "payload_file_count": 1070,
+  "transfer_manifest_sha256": "90fcc587c3026ca60c1fed869e67d3163d7d33e6b540ace0fe59261df1f85b64",
+  "packages": [
+    {
+      "file": "IRDAI_Reviewed_01.zip",
+      "bytes": 20690235,
+      "sha256": "60846c4a08975380717bdd95e144b878ef8b2b3534b05f8118ec71848a9cbe71",
+      "members": 77,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_02.zip",
+      "bytes": 19306721,
+      "sha256": "12a9c31c4a604918174275156e8a8a2961731f5fe1f3bd5fbe3a318bf5186545",
+      "members": 57,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_03.zip",
+      "bytes": 21128346,
+      "sha256": "268a786ef26b0abe4fe3d0f24bf54c8857a4a1abfd555bc75a80256104ca0e74",
+      "members": 60,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_04.zip",
+      "bytes": 19879932,
+      "sha256": "684abff18a7bfaa0403056a78a19c94db5840415e723bd7e6833f0e007c15561",
+      "members": 58,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_05.zip",
+      "bytes": 21403899,
+      "sha256": "0645f0b8a1e3550be784659a91ef65b8fc64288e18278d74c5d0ce822d06d6aa",
+      "members": 64,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_06.zip",
+      "bytes": 18390851,
+      "sha256": "8efeb79a1dd3a81a101240dcc01286a409d7cc165aa4ae689da79ef5701c0403",
+      "members": 72,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_07.zip",
+      "bytes": 21528949,
+      "sha256": "9618718c814ad4f459c7b2d05a1c70ddec73a59dc61328fa88ca9cc477144b97",
+      "members": 56,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_08.zip",
+      "bytes": 13125351,
+      "sha256": "59857ba85ee7ac0cfd109cc7a1b7c47ed6f1a8bc5e6e076a1146b30f1b6b8940",
+      "members": 41,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_09.zip",
+      "bytes": 19604385,
+      "sha256": "4019e9e7cb5658b368556d10564ea3fb61fb9a9c185d490a7bd9c818fe0a8113",
+      "members": 40,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_10.zip",
+      "bytes": 20347728,
+      "sha256": "830f07ae8234e240623f1b62c1abec7800a0315a1b249c7c2660a0ccd12dfdbc",
+      "members": 56,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_11.zip",
+      "bytes": 20195841,
+      "sha256": "f29e4b2f9d6bb620b5f5545fb5dfedd41ab8902293f37d2c87c960a66af1ce36",
+      "members": 68,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_12.zip",
+      "bytes": 20063826,
+      "sha256": "5918cda40cef51bbaa508cd2d6bdd1cea26af322413e7c046aa4577153feee08",
+      "members": 68,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_13.zip",
+      "bytes": 20987211,
+      "sha256": "5cefd49a7a7661a78539fe5ba0728b3352ba0505aea59b5e683aa7698647048c",
+      "members": 66,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_14.zip",
+      "bytes": 13554963,
+      "sha256": "9179e8a9a8abd4f0cd7ec63cb588800a63d3da3ad33bbe8498b4c499d033b6e5",
+      "members": 50,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_15.zip",
+      "bytes": 20249457,
+      "sha256": "1a592c6452e1951358cae67efef8a1d9c360feded4e0089154e25bd1a338b4bf",
+      "members": 51,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_16.zip",
+      "bytes": 18827763,
+      "sha256": "41e92813545b9d648d7fc7445f80727e0eb0d87ca77cc1acacfb898dd1d795e6",
+      "members": 61,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_17.zip",
+      "bytes": 19343895,
+      "sha256": "8be75f96d3ecd20f44a91f34672e8afe0def92005de3cfad3db6dd6b2e801c68",
+      "members": 54,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_18.zip",
+      "bytes": 19106911,
+      "sha256": "35c696c24923e49359891c951cf2013d300157a0c0b3ca4f9caa143daaa887f7",
+      "members": 65,
+      "all_member_crc_and_sha256_verified": true
+    },
+    {
+      "file": "IRDAI_Reviewed_19.zip",
+      "bytes": 2968717,
+      "sha256": "7b844c845c48299b5934d2e470fd7ad25dbdf54844d9b3a475c33b8966864dee",
+      "members": 6,
+      "all_member_crc_and_sha256_verified": true
+    }
+  ],
+  "full_tranche_complete": false,
+  "duplicate_free_legal_certification": false
+}
