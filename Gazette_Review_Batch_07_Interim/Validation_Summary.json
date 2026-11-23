@@ -1,0 +1,18 @@
+{
+  "validated_at_utc": "2026-11-23T02:43:20.130934+00:00",
+  "status": "VALIDATED BOUNDED REVIEW BATCH ONLY",
+  "inventory_rows": 80,
+  "original_attachment_references": 81,
+  "unique_original_pdfs": 74,
+  "physical_pdf_pages_independently_rendered": 157,
+  "native_excel_cells_checked": 560,
+  "native_excel_links_checked": 160,
+  "reader_warnings": 0,
+  "originals_not_repaired_or_rewritten": true,
+  "archive_file": "Gazette_Batch_07.zip",
+  "archive_bytes": 14287712,
+  "archive_sha256": "205f1fb90b4a54adb84b92763123fd7b65101258b5a5a18b1c9795d0a70abf0f",
+  "archive_members_all_crc_and_sha256_checked": 82,
+  "screenshots_in_archive": false,
+  "full_tranche_complete": false
+}
