@@ -7,11 +7,26 @@ Each ZIP contains only one seven-column Excel workbook and its unchanged origina
 
 | Source | New Inventory Entries | Original PDFs | Download |
 | --- | ---: | ---: | --- |
+| IRDAI Batch 15 | 49 | 55 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/e770114eb3e83bab65276e3673ab3b2d0908b7a0/IRDAI_Review_Batch_15/IRDAI_15.zip) |
+| Gazette Batch 16 | 111 | 107 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/9f6783ed3019787376dec80b0d02659bb84cc834/Gazette_Review_Batch_16/Gazette_16.zip) |
+
+Use Windows Extract All. Keep each workbook beside its `Originals` folder.
+Current reviewed inventory: 1,055 IRDAI entries through Batch 15 and 1,120 Gazette entries through Batch 16.
+These are review entries after confirmed repeat mappings, not certified unique or active-law totals.
+The complete Tranche 2 handover remains in progress. Applicability is preliminary; unresolved records are not marked cleared.
+
+## Earlier Reviewed Updates
+
+These are additional reviewed batches, not replacements for earlier downloads.
+Each ZIP contains only one seven-column Excel workbook and its unchanged original PDFs.
+
+| Source | New Inventory Entries | Original PDFs | Download |
+| --- | ---: | ---: | --- |
 | IRDAI Batch 14 | 55 | 74 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/6f205dec6a66294c15550613e1c320abe548d06c/IRDAI_Review_Batch_14/IRDAI_14.zip) |
 | Gazette Batch 15 | 125 | 110 | [Download ZIP](https://raw.githubusercontent.com/Rvnderdahiya/rbi-amex-transfer-20260620/7dfe328bcbf5601a2a0ceb48f4622afccd5f5ced/Gazette_Review_Batch_15/Gazette_15.zip) |
 
 Use Windows Extract All. Keep each workbook beside its `Originals` folder.
-Current reviewed inventory: 1,006 IRDAI entries through Batch 14 and 1,009 Gazette entries through Batch 15.
+Reviewed inventory at that checkpoint: 1,006 IRDAI entries through Batch 14 and 1,009 Gazette entries through Batch 15.
 These are review entries after confirmed repeat mappings, not certified unique or active-law totals.
 The complete Tranche 2 handover remains in progress. Applicability is preliminary; unresolved records are not marked cleared.
 
